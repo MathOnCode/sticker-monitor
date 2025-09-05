@@ -15,15 +15,24 @@ jobs:
     steps:
     - name: Checkout do código
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Melhora o desempenho do checkout
 
     - name: Configurar Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
+        cache: 'pip'  # Adiciona cache para instalações mais rápidas
 
     - name: Instalar dependências
       run: |
         pip install -r requirements.txt
+
+    - name: Verificar estrutura de diretórios
+      run: |
+        ls -la  # Lista arquivos para debug
+        echo "Conteúdo do monitor_de_stickers:"
+        ls -la monitor_de_stickers/ || echo "Diretório não encontrado"
 
     - name: Executar monitor
       run: |
