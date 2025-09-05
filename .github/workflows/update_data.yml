@@ -28,9 +28,9 @@ jobs:
     - name: Atualizar status para processando
       run: |
         # Usar aspas duplas e escapar corretamente
-        echo "{\"processing\": true, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Processando dados...\"}" > status.json
+        echo "{\"processing\": true, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Processando dados...\"}" > monitor_de_stickers/status.json
         
-        git add status.json
+        git add monitor_de_stickers/status.json
         git commit -m "🔄 Status: Processando" || echo "Sem mudanças para commitar"
         git push
 
@@ -51,10 +51,12 @@ jobs:
       run: |
         echo "Conteúdo do diretório:"
         ls -la
-        if [ -f "stickers_data.json" ]; then
+        echo "Conteúdo de monitor_de_stickers:"
+        ls -la monitor_de_stickers/
+        if [ -f "monitor_de_stickers/stickers_data.json" ]; then
           echo "✅ Arquivo stickers_data.json encontrado!"
           echo "📊 Conteúdo inicial:"
-          head -n 5 stickers_data.json
+          head -n 5 monitor_de_stickers/stickers_data.json
         else
           echo "❌ ERRO: Arquivo não foi criado!"
           exit 1
@@ -62,7 +64,7 @@ jobs:
 
     - name: Fazer commit das alterações (stickers_data.json)
       run: |
-        git add stickers_data.json
+        git add monitor_de_stickers/stickers_data.json
         if git diff --staged --quiet; then
           echo "ℹ️  Nenhuma mudança detectada no arquivo stickers_data.json."
         else
@@ -74,17 +76,17 @@ jobs:
     - name: Atualizar status para concluído
       if: success()
       run: |
-        echo "{\"processing\": false, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Processamento concluído com sucesso\"}" > status.json
+        echo "{\"processing\": false, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Processamento concluído com sucesso\"}" > monitor_de_stickers/status.json
         
-        git add status.json
+        git add monitor_de_stickers/status.json
         git commit -m "✅ Status: Concluído" || echo "Sem mudanças para commitar"
         git push
 
     - name: Atualizar status para falha
       if: failure()
       run: |
-        echo "{\"processing\": false, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Falha no processamento\"}" > status.json
+        echo "{\"processing\": false, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Falha no processamento\"}" > monitor_de_stickers/status.json
         
-        git add status.json
+        git add monitor_de_stickers/status.json
         git commit -m "❌ Status: Falha" || echo "Sem mudanças para commitar"
         git push
