@@ -11,10 +11,14 @@ on:
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Adiciona permissão de escrita
 
     steps:
     - name: Checkout do código
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # Token com permissões de escrita
 
     - name: Configurar Python
       uses: actions/setup-python@v4
@@ -28,3 +32,33 @@ jobs:
     - name: Executar monitor
       run: |
         python monitor_de_stickers/monitor.py --ambiente ${{ github.event.inputs.ambiente }}
+
+    - name: Verificar se arquivo foi criado
+      run: |
+        echo "Conteúdo do diretório:"
+        ls -la
+        if [ -f "stickers_data.json" ]; then
+          echo "✅ Arquivo stickers_data.json encontrado!"
+          echo "📊 Conteúdo inicial:"
+          head -n 5 stickers_data.json
+        else
+          echo "❌ ERRO: Arquivo não foi criado!"
+          exit 1
+        fi
+
+    - name: Configurar git
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+
+    - name: Fazer commit das alterações
+      run: |
+        git add stickers_data.json
+        # Verifica se há mudanças para commitar
+        if git diff --staged --quiet; then
+          echo "ℹ️  Nenhuma mudança detectada no arquivo."
+        else
+          git commit -m "🔄 Atualização automática: stickers_data.json"
+          git push
+          echo "✅ Mudanças commitadas e pushed!"
+        fi
