@@ -1,11 +1,16 @@
 import requests
 import json
 import time
+import os
 from lista_stickers import STICKERS
 
 
+# Pasta onde os arquivos serão salvos
+PASTA_DADOS = "monitor_de_stickers"
+
 # Arquivo JSON de saída
-JSON_SAIDA = "stickers_data.json"
+JSON_SAIDA = os.path.join(PASTA_DADOS, "stickers_data.json")
+DADOS_INICIAIS_JSON = os.path.join(PASTA_DADOS, "dados_iniciais.json")
 
 
 # Função para pegar preço atual
@@ -45,7 +50,7 @@ def obter_preco(nome_item):
 def carregar_dados_iniciais():
     dados_iniciais = {}
     try:
-        with open("dados_iniciais.json", "r", encoding="utf-8") as f:
+        with open(DADOS_INICIAIS_JSON, "r", encoding="utf-8") as f:
             dados_iniciais = json.load(f)
     except FileNotFoundError:
         # Se o arquivo não existe, criamos com valores padrão
@@ -61,7 +66,9 @@ def carregar_dados_iniciais():
 
 # Salva dados iniciais
 def salvar_dados_iniciais(dados):
-    with open("dados_iniciais.json", "w", encoding="utf-8") as f:
+    # Garante que a pasta existe
+    os.makedirs(PASTA_DADOS, exist_ok=True)
+    with open(DADOS_INICIAIS_JSON, "w", encoding="utf-8") as f:
         json.dump(dados, f, ensure_ascii=False, indent=2)
 
 
@@ -96,6 +103,9 @@ def gerar_json(dados_iniciais, precos_atuais):
 
 def main():
     print("Iniciando coleta de preços...")
+
+    # Garante que a pasta de dados existe
+    os.makedirs(PASTA_DADOS, exist_ok=True)
 
     # Carrega dados iniciais
     dados_iniciais = carregar_dados_iniciais()
