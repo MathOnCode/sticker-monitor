@@ -19,5 +19,5 @@ jobs:
           pip install -r requirements.txt || true
 
       - name: Run monitor.py
-        run: python monitor_de_stickers/monitor.py
+        run: python monitor.py
         working-directory: sticker-monitor
