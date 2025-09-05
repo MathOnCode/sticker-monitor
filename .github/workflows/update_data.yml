@@ -1,7 +1,12 @@
 name: Executar Monitor de Stickers
 
 on:
-  workflow_dispatch:  # Permite execução manual via interface do GitHub
+  workflow_dispatch:
+    inputs:
+      ambiente:
+        description: 'Ambiente de execução'
+        required: false
+        default: 'production'
 
 jobs:
   run-monitor:
@@ -10,9 +15,6 @@ jobs:
     steps:
     - name: Checkout do código
       uses: actions/checkout@v4
-      with:
-        repository: MathOnCode/sticker-monitor
-        ref: main
 
     - name: Configurar Python
       uses: actions/setup-python@v4
@@ -25,4 +27,4 @@ jobs:
 
     - name: Executar monitor
       run: |
-        python monitor_de_stickers/monitor.py
+        python monitor_de_stickers/monitor.py --ambiente ${{ github.event.inputs.ambiente }}
