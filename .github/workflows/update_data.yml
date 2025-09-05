@@ -12,13 +12,13 @@ jobs:
   run-monitor:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Adiciona permissão de escrita
+      contents: write
 
     steps:
     - name: Checkout do código
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # Token com permissões de escrita
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Configurar Git
       run: |
@@ -27,9 +27,12 @@ jobs:
 
     - name: Atualizar status para processando
       run: |
-        echo '{"processing": true, "last_update": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")", "message": "Processando dados..."}' > status.json
+        # Obter a data/hora atual corretamente
+        CURRENT_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+        echo "{\"processing\": true, \"last_update\": \"$CURRENT_DATE\", \"message\": \"Processando dados...\"}" > status.json
+        
         git add status.json
-        git commit -m "🔄 Status: Processando" || echo "Sem mudanças para commitar (processando)"
+        git commit -m "🔄 Status: Processando" || echo "Sem mudanças para commitar"
         git push
 
     - name: Configurar Python
@@ -61,7 +64,6 @@ jobs:
     - name: Fazer commit das alterações (stickers_data.json)
       run: |
         git add stickers_data.json
-        # Verifica se há mudanças para commitar
         if git diff --staged --quiet; then
           echo "ℹ️  Nenhuma mudança detectada no arquivo stickers_data.json."
         else
@@ -73,15 +75,21 @@ jobs:
     - name: Atualizar status para concluído
       if: success()
       run: |
-        echo '{"processing": false, "last_update": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")", "message": "Processamento concluído com sucesso"}' > status.json
+        # Obter a data/hora atual corretamente
+        CURRENT_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+        echo "{\"processing\": false, \"last_update\": \"$CURRENT_DATE\", \"message\": \"Processamento concluído com sucesso\"}" > status.json
+        
         git add status.json
-        git commit -m "✅ Status: Concluído" || echo "Sem mudanças para commitar (concluído)"
+        git commit -m "✅ Status: Concluído" || echo "Sem mudanças para commitar"
         git push
 
     - name: Atualizar status para falha
       if: failure()
       run: |
-        echo '{"processing": false, "last_update": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")", "message": "Falha no processamento"}' > status.json
+        # Obter a data/hora atual corretamente
+        CURRENT_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+        echo "{\"processing\": false, \"last_update\": \"$CURRENT_DATE\", \"message\": \"Falha no processamento\"}" > status.json
+        
         git add status.json
-        git commit -m "❌ Status: Falha" || echo "Sem mudanças para commitar (falha)"
+        git commit -m "❌ Status: Falha" || echo "Sem mudanças para commitar"
         git push
