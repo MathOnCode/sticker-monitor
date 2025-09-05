@@ -21,14 +21,10 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Navegar para o diretório correto
-      run: cd monitor_de_stickers
-
     - name: Instalar dependências
       run: |
-        pip install -r requirements.txt
+        pip install -r monitor_de_stickers/requirements.txt
 
     - name: Executar monitor
       run: |
-        python monitor.py --ambiente ${{ github.event.inputs.ambiente }}
-      working-directory: ./monitor_de_stickers
+        python monitor_de_stickers/monitor.py --ambiente ${{ github.event.inputs.ambiente }}
