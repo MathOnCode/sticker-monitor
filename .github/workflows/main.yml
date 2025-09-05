@@ -12,12 +12,11 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'  # Você pode ajustar para a versão que usa
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
           pip install -r requirements.txt || true
 
       - name: Run monitor.py
-        run: python monitor.py
-        working-directory: sticker-monitor
+        run: python monitor_de_stickers/monitor.py
