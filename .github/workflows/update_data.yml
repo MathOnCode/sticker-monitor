@@ -20,6 +20,18 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}  # Token com permissões de escrita
 
+    - name: Configurar Git
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+
+    - name: Atualizar status para processando
+      run: |
+        echo '{"processing": true, "last_update": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")", "message": "Processando dados..."}' > status.json
+        git add status.json
+        git commit -m "🔄 Status: Processando" || echo "Sem mudanças para commitar (processando)"
+        git push
+
     - name: Configurar Python
       uses: actions/setup-python@v4
       with:
@@ -46,19 +58,30 @@ jobs:
           exit 1
         fi
 
-    - name: Configurar git
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-
-    - name: Fazer commit das alterações
+    - name: Fazer commit das alterações (stickers_data.json)
       run: |
         git add stickers_data.json
         # Verifica se há mudanças para commitar
         if git diff --staged --quiet; then
-          echo "ℹ️  Nenhuma mudança detectada no arquivo."
+          echo "ℹ️  Nenhuma mudança detectada no arquivo stickers_data.json."
         else
           git commit -m "🔄 Atualização automática: stickers_data.json"
           git push
           echo "✅ Mudanças commitadas e pushed!"
         fi
+
+    - name: Atualizar status para concluído
+      if: success()
+      run: |
+        echo '{"processing": false, "last_update": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")", "message": "Processamento concluído com sucesso"}' > status.json
+        git add status.json
+        git commit -m "✅ Status: Concluído" || echo "Sem mudanças para commitar (concluído)"
+        git push
+
+    - name: Atualizar status para falha
+      if: failure()
+      run: |
+        echo '{"processing": false, "last_update": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")", "message": "Falha no processamento"}' > status.json
+        git add status.json
+        git commit -m "❌ Status: Falha" || echo "Sem mudanças para commitar (falha)"
+        git push
