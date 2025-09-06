@@ -179,10 +179,6 @@
     "preco_inicial": 0.07,
     "quantidade": 5
   },
-  "Sticker | CS20 Classic (Holo)": {
-    "preco_inicial": 2.8,
-    "quantidade": 1
-  },
   "Sticker | CacaNito (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.58,
     "quantidade": 1
@@ -2065,4 +2061,5 @@
   }
 
 }
+
 
