@@ -787,6 +787,10 @@
     "preco_inicial": 0.29,
     "quantidade": 7
   },
+  "Sticker | sk0R (Glitter) | Rio 2022": {
+    "preco_inicial": 0.49,
+    "quantidade": 1
+  },
   "Sticker | Snappi (Glitter) | Antwerp 2022": {
     "preco_inicial": 0.11,
     "quantidade": 12
@@ -901,7 +905,7 @@
   },
   "Sticker | Techno4K (Glitter) | Rio 2022": {
     "preco_inicial": 1.22,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | Techno4K (Holo) | Copenhagen 2024": {
     "preco_inicial": 1.11,
@@ -1564,8 +1568,8 @@
     "quantidade": 14
   },
   "Sticker | latto (Glitter) | Rio 2022": {
-    "preco_inicial": 0.57,
-    "quantidade": 1
+    "preco_inicial": 0.37,
+    "quantidade": 2
   },
   "Sticker | latto (Gold) | Copenhagen 2024": {
     "preco_inicial": 5.0,
@@ -2016,8 +2020,8 @@
     "quantidade": 15
   },
   "Sticker | yuurih (Glitter) | Rio 2022": {
-    "preco_inicial": 0.6,
-    "quantidade": 1
+    "preco_inicial": 0.33,
+    "quantidade": 3
   },
   "Sticker | yuurih (Glitter) | Shanghai 2024": {
     "preco_inicial": 1.7,
@@ -2061,6 +2065,7 @@
   }
 
 }
+
 
 
 
