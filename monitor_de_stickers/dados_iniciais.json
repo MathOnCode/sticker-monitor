@@ -934,7 +934,7 @@
   },
   "Sticker | The Mongolz (Foil) | Austin 2025": {
     "preco_inicial": 0.5,
-    "quantidade": 21
+    "quantidade": 22
   },
   "Sticker | The Mongolz | Austin 2025": {
     "preco_inicial": 0.05,
@@ -1786,7 +1786,7 @@
   },
   "Sticker | ropz (Glitter, Champion) | Antwerp 2022": {
     "preco_inicial": 0.74,
-    "quantidade": 6
+    "quantidade": 7
   },
   "Sticker | ropz | Copenhagen 2024": {
     "preco_inicial": 0.36,
@@ -2082,6 +2082,7 @@
   }
 
 }
+
 
 
 
