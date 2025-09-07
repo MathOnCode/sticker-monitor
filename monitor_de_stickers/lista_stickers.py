@@ -53,6 +53,7 @@ STICKERS = [
     "Sticker | Complexity Gaming | Copenhagen 2024",
     "Sticker | Copenhagen Flames | Antwerp 2022",
     "Sticker | DemQQ (Glitter) | Paris 2023",
+    "Sticker | device | Stockholm 2021"
     "Sticker | ECSTATIC (Glitter) | Copenhagen 2024",
     "Sticker | ENCE (Glitter) | Copenhagen 2024",
     "Sticker | EliGE (Glitter) | Copenhagen 2024",
@@ -81,6 +82,7 @@ STICKERS = [
     "Sticker | FlyQuest | Austin 2025",
     "Sticker | G2 Esports (Foil) | Austin 2025",
     "Sticker | G2 Esports | Austin 2025",
+    "Sticker | GeT_RiGhT | Berlin 2019 ",
     "Sticker | GODSENT | 2020 RMR",
     "Sticker | GamerLegion (Glitter) | Copenhagen 2024",
     "Sticker | GamerLegion | Copenhagen 2024",
@@ -517,6 +519,7 @@ STICKERS = [
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
 ]
+
 
 
 
