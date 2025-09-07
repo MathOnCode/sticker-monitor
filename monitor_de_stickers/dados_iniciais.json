@@ -247,6 +247,10 @@
     "preco_inicial": 0.06,
     "quantidade": 8
   },
+  "Sticker | Ex3rcice (Holo) | Austin 2025": {
+    "preco_inicial": 1.15,
+    "quantidade": 1
+  },
   "Sticker | F1KU | Austin 2025": {
     "preco_inicial": 0.09,
     "quantidade": 2
@@ -613,6 +617,10 @@
   },
   "Sticker | MAJ3R (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.4,
+    "quantidade": 1
+  },
+  "Sticker | mezii (Holo) | Austin 2025": {
+    "preco_inicial": 1.15,
     "quantidade": 1
   },
   "Sticker | MIBR (Foil) | Austin 2025": {
@@ -2081,6 +2089,7 @@
   }
 
 }
+
 
 
 
