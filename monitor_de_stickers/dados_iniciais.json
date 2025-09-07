@@ -7,15 +7,15 @@
     "preco_inicial": 49.85,
     "quantidade": 1
   },
-  "Charm | Austin 2025 Highlight | I'm Right Behind You": {
+  "Souvenir Charm | Austin 2025 Highlight | I'm Right Behind You": {
     "preco_inicial": 2.0,
     "quantidade": 1
   },
-  "Charm | Austin 2025 Highlight | Jimpphat Quadra Kill": {
+  "Souvenir Charm | Austin 2025 Highlight | Jimpphat Quadra Kill": {
     "preco_inicial": 1.2,
     "quantidade": 1
   },
-  "Charm | Austin 2025 Highlight | Spinx Quadra Kill": {
+  "Souvenir Charm | Austin 2025 Highlight | Spinx Quadra Kill": {
     "preco_inicial": 2.12,
     "quantidade": 1
   },
@@ -347,6 +347,10 @@
     "preco_inicial": 0.19,
     "quantidade": 3
   },
+  "Sticker | Goofy (Holo) | Paris 2023": {
+    "preco_inicial": 1.9,
+    "quantidade": 3
+  },
   "Sticker | Goofy | Copenhagen 2024": {
     "preco_inicial": 0.08,
     "quantidade": 5
@@ -387,7 +391,7 @@
     "preco_inicial": 1.2,
     "quantidade": 2
   },
-  "Sticker | Heroic (Foil) | Austin 2025": {
+  "Sticker | HEROIC (Foil) | Austin 2025": {
     "preco_inicial": 0.35,
     "quantidade": 13
   },
@@ -395,7 +399,7 @@
     "preco_inicial": 0.49,
     "quantidade": 1
   },
-  "Sticker | Heroic | Austin 2025": {
+  "Sticker | HEROIC | Austin 2025": {
     "preco_inicial": 0.05,
     "quantidade": 2
   },
@@ -427,15 +431,15 @@
     "preco_inicial": 0.07,
     "quantidade": 1
   },
-  "Sticker | Icy (Foil) | Austin 2025": {
+  "Sticker | ICY (Foil) | Austin 2025": {
     "preco_inicial": 0.14,
     "quantidade": 1
   },
-  "Sticker | Icy (Glitter) | Copenhagen 2024": {
+  "Sticker | ICY (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.07,
     "quantidade": 8
   },
-  "Sticker | Icy (Holo) | Copenhagen 2024": {
+  "Sticker | ICY (Holo) | Copenhagen 2024": {
     "preco_inicial": 0.5,
     "quantidade": 2
   },
@@ -495,7 +499,7 @@
     "preco_inicial": 2.85,
     "quantidade": 4
   },
-  "Sticker | Juanflatroo (Glitter) | Paris 2023": {
+  "Sticker | juanflatroo (Glitter) | Paris 2023": {
     "preco_inicial": 0.05,
     "quantidade": 3
   },
@@ -779,7 +783,7 @@
     "preco_inicial": 0.03,
     "quantidade": 1
   },
-  "Sticker | Sico (Glitter) | Antwerp 2022": {
+  "Sticker | sico (Glitter) | Antwerp 2022": {
     "preco_inicial": 0.28,
     "quantidade": 29
   },
@@ -819,15 +823,15 @@
     "preco_inicial": 0.06,
     "quantidade": 3
   },
-  "Sticker | StavN (Glitter) | Antwerp 2022": {
+  "Sticker | stavn (Glitter) | Antwerp 2022": {
     "preco_inicial": 0.2,
     "quantidade": 12
   },
-  "Sticker | StavN (Glitter) | Paris 2023": {
+  "Sticker | stavn (Glitter) | Paris 2023": {
     "preco_inicial": 0.05,
     "quantidade": 3
   },
-  "Sticker | StavN (Glitter) | Rio 2022": {
+  "Sticker | stavn (Glitter) | Rio 2022": {
     "preco_inicial": 0.33,
     "quantidade": 5
   },
@@ -931,7 +935,7 @@
     "preco_inicial": 0.6,
     "quantidade": 1
   },
-  "Sticker | Vexite | Austin 2025": {
+  "Sticker | vexite | Austin 2025": {
     "preco_inicial": 0.05,
     "quantidade": 5
   },
@@ -1319,27 +1323,27 @@
     "preco_inicial": 0.37,
     "quantidade": 5
   },
-  "Sticker | falleN (Glitter) | Antwerp 2022": {
+  "Sticker | FalleN (Glitter) | Antwerp 2022": {
     "preco_inicial": 0.9,
     "quantidade": 1
   },
-  "Sticker | falleN (Glitter) | Copenhagen 2024": {
+  "Sticker | FalleN (Glitter) | Copenhagen 2024": {
     "preco_inicial": 1.0,
     "quantidade": 4
   },
-  "Sticker | falleN (Holo) | Austin 2025": {
+  "Sticker | FalleN (Holo) | Austin 2025": {
     "preco_inicial": 12.2,
     "quantidade": 1
   },
-  "Sticker | falleN | Antwerp 2022": {
+  "Sticker | FalleN | Antwerp 2022": {
     "preco_inicial": 0.3,
     "quantidade": 16
   },
-  "Sticker | falleN | Copenhagen 2024": {
+  "Sticker | FalleN | Copenhagen 2024": {
     "preco_inicial": 0.3,
     "quantidade": 5
   },
-  "Sticker | falleN | Shanghai 2024": {
+  "Sticker | FalleN | Shanghai 2024": {
     "preco_inicial": 0.4,
     "quantidade": 1
   },
@@ -1519,7 +1523,7 @@
     "preco_inicial": 0.15,
     "quantidade": 2
   },
-  "Sticker | jee | Copenhagen 2024": {
+  "Sticker | Jee | Copenhagen 2024": {
     "preco_inicial": 0.09,
     "quantidade": 2
   },
@@ -2065,6 +2069,7 @@
   }
 
 }
+
 
 
 
