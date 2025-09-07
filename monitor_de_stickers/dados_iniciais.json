@@ -1435,6 +1435,10 @@
     "preco_inicial": 0.09,
     "quantidade": 6
   },
+  "Sticker | huNter- | Berlin 2019": {
+    "preco_inicial": 1.57,
+    "quantidade": 1
+  },
   "Sticker | huNter- (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.37,
     "quantidade": 4
@@ -2069,6 +2073,7 @@
   }
 
 }
+
 
 
 
