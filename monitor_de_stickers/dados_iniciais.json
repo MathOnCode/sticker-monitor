@@ -215,6 +215,10 @@
     "preco_inicial": 0.13,
     "quantidade": 3
   },
+  "Sticker | device | Stockholm 2021": {
+    "preco_inicial": 0.43,
+    "quantidade": 1
+  },
   "Sticker | ECSTATIC (Glitter) | Copenhagen 2024": {
     "preco_inicial": 3.19,
     "quantidade": 1
@@ -327,6 +331,11 @@
     "preco_inicial": 0.05,
     "quantidade": 1
   },
+  ,
+  "Sticker | GeT_RiGhT | Berlin 2019": {
+    "preco_inicial": 0.63,
+    "quantidade": 1
+  }, 
   "Sticker | GODSENT | 2020 RMR": {
     "preco_inicial": 0.16,
     "quantidade": 1
@@ -2073,6 +2082,7 @@
   }
 
 }
+
 
 
 
