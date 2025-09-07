@@ -61,6 +61,7 @@ STICKERS = [
     "Sticker | EliGE | Austin 2025",
     "Sticker | EmiliaQAQ (Glitter) | Copenhagen 2024",
     "Sticker | EmiliaQAQ | Copenhagen 2024",
+    "Sticker | Ex3rcice (Holo) | Austin 2025",
     "Sticker | F1KU | Austin 2025",
     "Sticker | FL1T (Glitter) | Copenhagen 2024",
     "Sticker | FL1T (Glitter) | Rio 2022",
@@ -153,6 +154,7 @@ STICKERS = [
     "Sticker | M80 (Foil) | Austin 2025",
     "Sticker | M80 | Austin 2025",
     "Sticker | MAJ3R (Glitter) | Copenhagen 2024",
+    "Sticker | mezii (Holo) | Austin 2025",
     "Sticker | MIBR (Foil) | Austin 2025",
     "Sticker | MIBR (Glitter) | Antwerp 2022",
     "Sticker | MIBR | Austin 2025",
@@ -519,6 +521,7 @@ STICKERS = [
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
 ]
+
 
 
 
