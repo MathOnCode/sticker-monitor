@@ -99,7 +99,7 @@ STICKERS = [
     "Sticker | Heavygod (Gold) | Austin 2025",
     "Sticker | Heavygod (Holo) | Austin 2025",
     "Sticker | HEROIC (Foil) | Austin 2025",
-    "Sticker | HEROIC (Glitter) | Copenhagen 2024",
+    "Sticker | Heroic (Glitter) | Copenhagen 2024",
     "Sticker | HEROIC | Austin 2025",
     "Sticker | Hobbit (Glitter) | Antwerp 2022",
     "Sticker | HooXi (Glitter) | Copenhagen 2024",
@@ -197,7 +197,7 @@ STICKERS = [
     "Sticker | Senzu (Holo) | Copenhagen 2024",
     "Sticker | Senzu | Austin 2025",
     "Sticker | sico (Glitter) | Antwerp 2022",
-    "Sticker | sico (Glitter) | Paris 2023",
+    "Sticker | Sico (Glitter) | Paris 2023",
     "Sticker | Snappi (Glitter) | Antwerp 2022",
     "Sticker | Snax (Holo) | Shanghai 2024",
     "Sticker | Spinx (Glitter) | Rio 2022",
@@ -233,7 +233,7 @@ STICKERS = [
     "Sticker | The Mongolz (Foil) | Austin 2025",
     "Sticker | The Mongolz | Austin 2025",
     "Sticker | VINI (Glitter) | Copenhagen 2024",
-    "Sticker | Vexite | Austin 2025",
+    "Sticker | vexite | Austin 2025",
     "Sticker | Virtus.Pro (Foil) | Austin 2025",
     "Sticker | Virtus.Pro | Austin 2025",
     "Sticker | Virtus.pro (Glitter) | Copenhagen 2024",
@@ -517,4 +517,5 @@ STICKERS = [
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
 ]
+
 
