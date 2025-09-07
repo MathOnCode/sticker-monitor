@@ -241,7 +241,7 @@
   },
   "Sticker | EmiliaQAQ (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.60,
-    "quantidade": 3
+    "quantidade": 4
   },
   "Sticker | EmiliaQAQ | Copenhagen 2024": {
     "preco_inicial": 0.06,
@@ -789,7 +789,7 @@
   },
   "Sticker | Senzu (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.11,
-    "quantidade": 66
+    "quantidade": 67
   },
   "Sticker | Senzu (Holo) | Copenhagen 2024": {
     "preco_inicial": 1.27,
@@ -977,7 +977,7 @@
   },
   "Sticker | Vitality (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.82,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | Vitality (Glitter) | Paris 2023": {
     "preco_inicial": 1.3,
@@ -1457,7 +1457,7 @@
   },
   "Sticker | huNter- (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.37,
-    "quantidade": 4
+    "quantidade": 7
   },
   "Sticker | huNter- (Glitter) | Paris 2023": {
     "preco_inicial": 0.06,
@@ -1693,7 +1693,7 @@
   },
   "Sticker | n0rb3r7 (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.23,
-    "quantidade": 1
+    "quantidade": 3
   },
   "Sticker | n1ssim (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.24,
@@ -2089,6 +2089,7 @@
   }
 
 }
+
 
 
 
