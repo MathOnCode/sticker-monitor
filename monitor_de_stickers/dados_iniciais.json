@@ -385,7 +385,7 @@
   },
   "Sticker | Heavygod (Foil) | Austin 2025": {
     "preco_inicial": 0.12,
-    "quantidade": 3
+    "quantidade": 5
   },
   "Sticker | Heavygod (Glitter) | Shanghai 2024": {
     "preco_inicial": 0.3,
@@ -1585,7 +1585,7 @@
   },
   "Sticker | latto (Glitter) | Rio 2022": {
     "preco_inicial": 0.37,
-    "quantidade": 2
+    "quantidade": 1
   },
   "Sticker | latto (Gold) | Copenhagen 2024": {
     "preco_inicial": 5.0,
@@ -2081,6 +2081,7 @@
   }
 
 }
+
 
 
 
