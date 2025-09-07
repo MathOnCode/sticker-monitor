@@ -309,7 +309,7 @@
   },
   "Sticker | FlameZ (Glitter) | Rio 2022": {
     "preco_inicial": 0.6,
-    "quantidade": 1
+    "quantidade": 3
   },
   "Sticker | Fluxo (Foil) | Austin 2025": {
     "preco_inicial": 0.3,
@@ -1793,7 +1793,7 @@
   },
   "Sticker | ropz (Glitter, Champion) | Antwerp 2022": {
     "preco_inicial": 0.74,
-    "quantidade": 7
+    "quantidade": 9
   },
   "Sticker | ropz | Copenhagen 2024": {
     "preco_inicial": 0.36,
@@ -2089,6 +2089,7 @@
   }
 
 }
+
 
 
 
