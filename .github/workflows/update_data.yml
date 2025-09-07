@@ -1,4 +1,4 @@
-name: Executar Monitor de Stickers
+name: Monitor de Stickers
 
 on:
   workflow_dispatch:
@@ -27,8 +27,7 @@ jobs:
 
     - name: Atualizar status para processando
       run: |
-        # Usar aspas duplas e escapar corretamente
-        echo "{\"processing\": true, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Processando dados...\"}" > monitor_de_stickers/status.json
+        echo '{"processing": true, "last_update": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'", "message": "Processando dados..."}' > monitor_de_stickers/status.json
         
         git add monitor_de_stickers/status.json
         git commit -m "🔄 Status: Processando" || echo "Sem mudanças para commitar"
@@ -76,7 +75,7 @@ jobs:
     - name: Atualizar status para concluído
       if: success()
       run: |
-        echo "{\"processing\": false, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Processamento concluído com sucesso\"}" > monitor_de_stickers/status.json
+        echo '{"processing": false, "last_update": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'", "message": "Processamento concluído com sucesso"}' > monitor_de_stickers/status.json
         
         git add monitor_de_stickers/status.json
         git commit -m "✅ Status: Concluído" || echo "Sem mudanças para commitar"
@@ -85,7 +84,7 @@ jobs:
     - name: Atualizar status para falha
       if: failure()
       run: |
-        echo "{\"processing\": false, \"last_update\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"message\": \"Falha no processamento\"}" > monitor_de_stickers/status.json
+        echo '{"processing": false, "last_update": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'", "message": "Falha no processamento"}' > monitor_de_stickers/status.json
         
         git add monitor_de_stickers/status.json
         git commit -m "❌ Status: Falha" || echo "Sem mudanças para commitar"
