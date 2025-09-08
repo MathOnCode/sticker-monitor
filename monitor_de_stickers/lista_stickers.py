@@ -3,7 +3,7 @@ STICKERS = [
     "AWP | Atheris (Minimal Wear)",
     "Souvenir Charm | Austin 2025 Highlight | I'm Right Behind You",
     "Souvenir Charm | Austin 2025 Highlight | Jimpphat Quadra Kill",
-    "Souvenir Charm| Austin 2025 Highlight | Spinx Quadra Kill",
+    "Souvenir Charm | Austin 2025 Highlight | Spinx Quadra Kill",
     "Charm | Baby's AK",
     "Charm | Big Kev",
     "Charm | Chicken Lil'",
@@ -83,7 +83,7 @@ STICKERS = [
     "Sticker | FlyQuest | Austin 2025",
     "Sticker | G2 Esports (Foil) | Austin 2025",
     "Sticker | G2 Esports | Austin 2025",
-    "Sticker | GeT_RiGhT | Berlin 2019 ",
+    "Sticker | GeT_RiGhT | Berlin 2019",
     "Sticker | GODSENT | 2020 RMR",
     "Sticker | GamerLegion (Glitter) | Copenhagen 2024",
     "Sticker | GamerLegion | Copenhagen 2024",
@@ -521,6 +521,7 @@ STICKERS = [
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
 ]
+
 
 
 
