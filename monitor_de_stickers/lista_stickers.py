@@ -53,7 +53,7 @@ STICKERS = [
     "Sticker | Complexity Gaming | Copenhagen 2024",
     "Sticker | Copenhagen Flames | Antwerp 2022",
     "Sticker | DemQQ (Glitter) | Paris 2023",
-    "Sticker | device | Stockholm 2021"
+    "Sticker | device | Stockholm 2021",
     "Sticker | ECSTATIC (Glitter) | Copenhagen 2024",
     "Sticker | ENCE (Glitter) | Copenhagen 2024",
     "Sticker | EliGE (Glitter) | Copenhagen 2024",
@@ -521,6 +521,7 @@ STICKERS = [
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
 ]
+
 
 
 
