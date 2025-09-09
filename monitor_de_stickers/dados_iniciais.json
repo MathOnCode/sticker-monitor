@@ -205,7 +205,7 @@
   },
   "Sticker | Complexity Gaming (Glitter) | Copenhagen 2024": {
     "preco_inicial": 1.06,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | Complexity Gaming | Copenhagen 2024": {
     "preco_inicial": 0.14,
@@ -353,7 +353,7 @@
   },
   "Sticker | GamerLegion | Copenhagen 2024": {
     "preco_inicial": 0.1,
-    "quantidade": 5
+    "quantidade": 6
   },
   "Sticker | Goofy (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.43,
@@ -405,7 +405,7 @@
   },
   "Sticker | Heavygod (Holo) | Austin 2025": {
     "preco_inicial": 1.2,
-    "quantidade": 2
+    "quantidade": 3
   },
   "Sticker | HEROIC (Foil) | Austin 2025": {
     "preco_inicial": 0.35,
@@ -1453,7 +1453,7 @@
   },
   "Sticker | headtr1ck (Holo) | Paris 2023": {
     "preco_inicial": 1.01,
-    "quantidade": 4
+    "quantidade": 5
   },
   "Sticker | huNter- (Foil) | Austin 2025": {
     "preco_inicial": 0.09,
@@ -2005,7 +2005,7 @@
   },
   "Sticker | w0nderful (Holo) | Austin 2025": {
     "preco_inicial": 1.1,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | westmelon (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.34,
@@ -2097,6 +2097,7 @@
   }
 
 }
+
 
 
 
