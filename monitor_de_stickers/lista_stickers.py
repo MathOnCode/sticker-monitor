@@ -156,7 +156,6 @@ STICKERS = [
     "Sticker | M80 | Austin 2025",
     "Sticker | MAJ3R (Glitter) | Copenhagen 2024",
     "Sticker | mezii (Holo) | Austin 2025",
-    "Sticker | mezii (Glitter) | Copenhagen 2024",
     "Sticker | MIBR (Foil) | Austin 2025",
     "Sticker | MIBR (Glitter) | Antwerp 2022",
     "Sticker | MIBR | Austin 2025",
@@ -548,9 +547,12 @@ STICKERS = [
     "Souvenir USP-S | Desert Tatical (Minimal Wear)",
     "Souvenir P250 | Facility Draft (Factory New)",
     "M4A1-S | Mud-Spec (Minimal Wear)",
-    "Negev | Wall Bang (Factory New)"
-    "Sticker | broky (Holo, Champion) | Antwerp 2022"
+    "Negev | Wall Bang (Factory New)",
+    "Sticker | broky (Holo, Champion) | Antwerp 2022",
+    "Sticker | mezii (Glitter) | Copenhagen 2024",
+    "Sticker | Spinx (Glitter) | Copenhagen 2024"
 ]
+
 
 
 
