@@ -2099,6 +2099,10 @@
     "preco_inicial": 0.20,
     "quantidade": 24
   },
+   "Souvenir R8 Revolver | Inlay (Factory New)": {
+    "preco_inicial": 1.0,
+    "quantidade": 1
+  },
   "Souvenir AUG | Snake Pit (Minimal Wear)": {
     "preco_inicial": 0.30,
     "quantidade": 45
@@ -2113,7 +2117,7 @@
   },
   "Souvenir MP7 | Sunbaked (Factory New)": {
     "preco_inicial": 2.01,
-    "quantidade": 1
+    "quantidade": 2
   },
   "XM1014 | Hieroglyph (Factory New)": {
     "preco_inicial": 1.01,
@@ -2163,7 +2167,44 @@
     "preco_inicial": ,
     "quantidade": 1
   },
+  "Souvenir CZ75-Auto | Silver": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
+  "Souvenir Five-SeveN | Withered Vine": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
+  "Souvenir Nova | Rain Station": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
+  "Souvenir P2000 | Panther Camo": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
+  "Souvenir UMP-45 | Mechanism": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
+  "Souvenir USP-S | Desert Tatical": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
+  "Souvenir P250 | Facility Draft": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
+  "M4A1-S | Mud-Spec": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
+  "Negev | Wall Bang": {
+    "preco_inicial": ,
+    "quantidade": 1
+  },
 }
+
 
 
 
