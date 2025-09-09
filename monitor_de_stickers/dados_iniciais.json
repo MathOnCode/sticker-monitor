@@ -159,6 +159,10 @@
     "preco_inicial": 0.08,
     "quantidade": 14
   },
+  "Sticker | bodyy (Holo) | Austin 2025": {
+    "preco_inicial": 1.47,
+    "quantidade": 1
+  },
   "Sticker | Brollan (Glitter) | Antwerp 2022": {
     "preco_inicial": 0.12,
     "quantidade": 4
@@ -2093,6 +2097,7 @@
   }
 
 }
+
 
 
 
