@@ -523,9 +523,33 @@ STICKERS = [
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
     "Souvenir R8 Revolver | Inlay (Minimal Wear)",
+    "Souvenir R8 Revolver | Inlay (Factory New)",
     "Souvenir AUG | Snake Pit (Minimal Wear)",
-    "Souvenir MP7 | Sunbaked (Minimal Wear)"
+    "Souvenir MP7 | Sunbaked (Minimal Wear)",
+    "Souvenir MP7 | Sunbaked (Factory New)",
+    "XM1014 | Hieroglyph (Factory New)",
+    "Souvenir XM1014 | Hieroglyph (Minimal Wear)",
+    "TEC-9 | Rebel (Minimal Wear)",
+    "R8 Revolver | Banana Cannon (Minimal Wear)",
+    "StatTrak™ R8 Revolver | Grip (Minimal Wear)",
+    "R8 Revolver | Grip (Minimal Wear)",
+    "R8 Revolver | Junk Yard (Minimal Wear)",
+    "R8 Revolver | Survivalist (Minimal Wear)",
+    "SG 553 | Cyberforce (Minimal Wear)",
+    "SSG 08 | Memorial (Factory New)",
+    "P90 | Traction (Minimal Wear)",
+    "FAMAS | Meow 36 (Minimal Wear)",
+    "Souvenir CZ75-Auto | Silver (Factory New)",
+    "Souvenir Five-SeveN | Withered Vine (Factory New)",
+    "Souvenir Nova | Rain Station (Minimal Wear)",
+    "Souvenir P2000 | Panther Camo (Factory New)",
+    "Souvenir UMP-45 | Mechanism (Minimal Wear)",
+    "Souvenir USP-S | Desert Tatical (Minimal Wear)",
+    "Souvenir P250 | Facility Draft (Factory New)",
+    "M4A1-S | Mud-Spec (Minimal Wear)",
+    "Negev | Wall Bang (Factory New)"
 ]
+
 
 
 
