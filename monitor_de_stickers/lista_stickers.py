@@ -217,7 +217,7 @@ STICKERS = [
     "Sticker | TRAVIS (Holo) | Copenhagen 2024",
     "Sticker | TRY (Glitter) | Rio 2022",
     "Sticker | TYLOO (Foil) | Austin 2025",
-    "Sticker | TeSeS (Glitter) | Paris 2023",
+    "Sticker | eS (Glitter) | Paris 2023",
     "Sticker | TeSeS (Glitter) | Rio 2022",
     "Sticker | TeSeS (Glitter) | Shanghai 2024",
     "Sticker | Team Liquid (Foil) | Austin 2025",
@@ -235,6 +235,7 @@ STICKERS = [
     "Sticker | The MongolZ (Holo) | Copenhagen 2024",
     "Sticker | The Mongolz (Foil) | Austin 2025",
     "Sticker | The Mongolz | Austin 2025",
+    "Sticker | tN1R (Foil) | Austin 2025",
     "Sticker | VINI (Glitter) | Copenhagen 2024",
     "Sticker | vexite | Austin 2025",
     "Sticker | Virtus.Pro (Foil) | Austin 2025",
@@ -521,6 +522,7 @@ STICKERS = [
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
 ]
+
 
 
 
