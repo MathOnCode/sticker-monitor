@@ -2202,8 +2202,21 @@
   "Negev | Wall Bang (Factory New)": {
     "preco_inicial": 1.4,
     "quantidade": 1
+  },
+  "Sticker | broky (Holo, Champion) | Antwerp 2022": {
+    "preco_inicial": 3.63,
+    "quantidade": 1
+  },
+  "Sticker | mezii (Glitter) | Copenhagen 2024": {
+    "preco_inicial": 0.23,
+    "quantidade": 1
+  },
+  "Sticker | Spinx (Glitter) | Copenhagen 2024": {
+    "preco_inicial": 0.16,
+    "quantidade": 1
   }
 }
+
 
 
 
