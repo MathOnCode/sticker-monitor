@@ -522,7 +522,11 @@ STICKERS = [
     "Sticker | zont1x (Glitter) | Shanghai 2024",
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
+    "Souvenir R8 Revolver | Inlay (Minimal Wear)",
+    "Souvenir AUG | Snake Pit (Minimal Wear)",
+    "Souvenir MP7 | Sunbaked (Minimal Wear)"
 ]
+
 
 
 
