@@ -2107,7 +2107,27 @@
     "preco_inicial": 0.15,
     "quantidade": 16
   }
+  "Souvenir AUG | Snake Pit (Factory New)": {
+    "preco_inicial": 1.40,
+    "quantidade": 1
+  },
+  "Souvenir MP7 | Sunbaked (Factory New)": {
+    "preco_inicial": 2.01,
+    "quantidade": 1
+  }
+  "XM1014 | Hieroglyph (Factory New)": {
+    "preco_inicial": 1.01,
+    "quantidade": 1
+  }
+  "Souvenir XM1014 | Hieroglyph (Minimal Wear)": {
+    "preco_inicial": 0.15,
+    "quantidade": 1
+  }"TEC-9 | Rebel (Minimal Wear)": {
+    "preco_inicial": 0.55,
+    "quantidade": 1
+  }
 }
+
 
 
 
