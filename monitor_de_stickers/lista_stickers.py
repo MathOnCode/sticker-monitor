@@ -548,7 +548,9 @@ STICKERS = [
     "Souvenir P250 | Facility Draft (Factory New)",
     "M4A1-S | Mud-Spec (Minimal Wear)",
     "Negev | Wall Bang (Factory New)"
+    "Sticker | broky (Holo, Champion) | Antwerp 2022"
 ]
+
 
 
 
