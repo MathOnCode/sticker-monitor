@@ -39,6 +39,7 @@ STICKERS = [
     "Sticker | Bad News Eagles | Antwerp 2022",
     "Sticker | BetBoom (Foil) | Austin 2025",
     "Sticker | BetBoom | Austin 2025",
+    "Sticker | bodyy (Holo) | Austin 2025",
     "Sticker | Brollan (Glitter) | Antwerp 2022",
     "Sticker | Brollan (Glitter) | Copenhagen 2024",
     "Sticker | Brollan (Glitter) | Rio 2022",
@@ -522,6 +523,7 @@ STICKERS = [
     "Sticker | zont1x (Holo, Champion) | Shanghai 2024",
     "Sticker | zweih (Foil) | Austin 2025",
 ]
+
 
 
 
