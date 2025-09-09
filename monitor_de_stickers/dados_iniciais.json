@@ -2094,9 +2094,21 @@
   "Sticker | zweih (Foil) | Austin 2025": {
     "preco_inicial": 0.54,
     "quantidade": 3
+  },
+  "Souvenir R8 Revolver | Inlay (Minimal Wear)": {
+    "preco_inicial": 0.20,
+    "quantidade": 24
+  },
+  "Souvenir AUG | Snake Pit (Minimal Wear)": {
+    "preco_inicial": 0.30,
+    "quantidade": 45
+  },
+  "Souvenir MP7 | Sunbaked (Minimal Wear)": {
+    "preco_inicial": 0.15,
+    "quantidade": 16
   }
-
 }
+
 
 
 
