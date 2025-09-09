@@ -875,7 +875,7 @@
     "preco_inicial": 6.47,
     "quantidade": 1
   },
-  "Sticker | TeSeS (Glitter) | Paris 2023": {
+  "Sticker |  (Glitter) | Paris 2023": {
     "preco_inicial": 0.13,
     "quantidade": 5
   },
@@ -946,6 +946,10 @@
   "Sticker | The Mongolz | Austin 2025": {
     "preco_inicial": 0.05,
     "quantidade": 14
+  },
+  "Sticker | tN1R (Foil) | Austin 2025": {
+    "preco_inicial": 0.54,
+    "quantidade": 8
   },
   "Sticker | VINI (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.6,
@@ -2089,6 +2093,7 @@
   }
 
 }
+
 
 
 
