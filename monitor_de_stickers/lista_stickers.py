@@ -218,7 +218,7 @@ STICKERS = [
     "Sticker | TRAVIS (Holo) | Copenhagen 2024",
     "Sticker | TRY (Glitter) | Rio 2022",
     "Sticker | TYLOO (Foil) | Austin 2025",
-    "Sticker | eS (Glitter) | Paris 2023",
+    "Sticker | TeSeS (Glitter) | Paris 2023",
     "Sticker | TeSeS (Glitter) | Rio 2022",
     "Sticker | TeSeS (Glitter) | Shanghai 2024",
     "Sticker | Team Liquid (Foil) | Austin 2025",
@@ -526,6 +526,7 @@ STICKERS = [
     "Souvenir AUG | Snake Pit (Minimal Wear)",
     "Souvenir MP7 | Sunbaked (Minimal Wear)"
 ]
+
 
 
 
