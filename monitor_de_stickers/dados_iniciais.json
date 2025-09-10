@@ -365,7 +365,7 @@
   },
   "Sticker | Goofy (Holo) | Paris 2023": {
     "preco_inicial": 1.9,
-    "quantidade": 3
+    "quantidade": 1
   },
   "Sticker | Goofy | Copenhagen 2024": {
     "preco_inicial": 0.08,
@@ -2216,6 +2216,7 @@
     "quantidade": 1
   }
 }
+
 
 
 
