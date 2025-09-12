@@ -544,7 +544,7 @@ STICKERS = [
     "Souvenir Nova | Rain Station (Minimal Wear)",
     "Souvenir P2000 | Panther Camo (Factory New)",
     "Souvenir UMP-45 | Mechanism (Minimal Wear)",
-    "Souvenir USP-S | Desert Tatical (Minimal Wear)",
+    "Souvenir USP-S | Desert Tactical (Minimal Wear)",
     "Souvenir P250 | Facility Draft (Factory New)",
     "M4A1-S | Mud-Spec (Minimal Wear)",
     "Negev | Wall Bang (Factory New)",
@@ -552,6 +552,7 @@ STICKERS = [
     "Sticker | mezii (Glitter) | Copenhagen 2024",
     "Sticker | Spinx (Glitter) | Copenhagen 2024"
 ]
+
 
 
 
