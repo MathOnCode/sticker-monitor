@@ -529,7 +529,7 @@ STICKERS = [
     "Souvenir MP7 | Sunbaked (Factory New)",
     "XM1014 | Hieroglyph (Factory New)",
     "Souvenir XM1014 | Hieroglyph (Minimal Wear)",
-    "TEC-9 | Rebel (Minimal Wear)",
+    "Tec-9 | Rebel (Minimal Wear)",
     "R8 Revolver | Banana Cannon (Minimal Wear)",
     "StatTrak™ R8 Revolver | Grip (Minimal Wear)",
     "R8 Revolver | Grip (Minimal Wear)",
@@ -552,6 +552,7 @@ STICKERS = [
     "Sticker | mezii (Glitter) | Copenhagen 2024",
     "Sticker | Spinx (Glitter) | Copenhagen 2024"
 ]
+
 
 
 
