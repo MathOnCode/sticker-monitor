@@ -2214,8 +2214,25 @@
   "Sticker | Spinx (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.16,
     "quantidade": 1
+  }, 
+    "Sticker | jambo (Holo) | Shanghai 2024": {
+    "preco_inicial": 2.5,
+    "quantidade": 1
+  },
+    "Sticker | n0rb3r7 (Holo) | Copenhagen 2024": {
+    "preco_inicial": 3.2,
+    "quantidade": 1
+  },
+    "Sticker | Renegades (Foil) | Berlin 2019": {
+    "preco_inicial": 17,
+    "quantidade": 1
+  },
+    "Sticker | sense (Holo) | Copenhagen 2024": {
+    "preco_inicial": 6.3,
+    "quantidade": 1
   }
 }
+
 
 
 
