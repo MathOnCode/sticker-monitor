@@ -550,8 +550,13 @@ STICKERS = [
     "Negev | Wall Bang (Factory New)",
     "Sticker | broky (Holo, Champion) | Antwerp 2022",
     "Sticker | mezii (Glitter) | Copenhagen 2024",
-    "Sticker | Spinx (Glitter) | Copenhagen 2024"
+    "Sticker | Spinx (Glitter) | Copenhagen 2024",
+    "Sticker | jambo (Holo) | Shanghai 2024",
+    "Sticker | n0rb3r7 (Holo) | Copenhagen 2024",
+    "Sticker | Renegades (Foil) | Berlin 2019",
+    "Sticker | sense (Holo) | Copenhagen 2024"
 ]
+
 
 
 
