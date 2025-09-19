@@ -229,7 +229,7 @@
   },
   "Sticker | ENCE (Glitter) | Copenhagen 2024": {
     "preco_inicial": 1.20,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | EliGE (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.15,
@@ -261,7 +261,7 @@
   },
   "Sticker | FL1T (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.14,
-    "quantidade": 9
+    "quantidade": 10
   },
   "Sticker | FL1T (Glitter) | Rio 2022": {
     "preco_inicial": 0.56,
@@ -972,8 +972,8 @@
     "quantidade": 3
   },
   "Sticker | Virtus.pro (Glitter) | Copenhagen 2024": {
-    "preco_inicial": 0.80,
-    "quantidade": 7
+    "preco_inicial": 0.95,
+    "quantidade": 8
   },
   "Sticker | Vitality (Foil) | Austin 2025": {
     "preco_inicial": 0.66,
@@ -1549,7 +1549,7 @@
   },
   "Sticker | jambo (Glitter) | Shanghai 2024": {
     "preco_inicial": 0.15,
-    "quantidade": 2
+    "quantidade": 5
   },
   "Sticker | Jee | Copenhagen 2024": {
     "preco_inicial": 0.09,
@@ -1859,13 +1859,17 @@
     "preco_inicial": 0.13,
     "quantidade": 20
   },
+  "Sticker | sense (Glitter) | Copenhagen 2024": {
+    "preco_inicial": 1.13,
+    "quantidade": 2
+  },
   "Sticker | sh1ro (Foil) | Austin 2025": {
     "preco_inicial": 0.2,
     "quantidade": 6
   },
   "Sticker | sh1ro (Glitter) | Copenhagen 2024": {
-    "preco_inicial": 0.3,
-    "quantidade": 31
+    "preco_inicial": 0.35,
+    "quantidade": 35
   },
   "Sticker | sh1ro (Glitter) | Shanghai 2024": {
     "preco_inicial": 0.08,
@@ -2232,6 +2236,7 @@
     "quantidade": 1
   }
 }
+
 
 
 
