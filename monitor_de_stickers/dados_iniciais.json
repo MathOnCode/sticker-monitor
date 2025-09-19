@@ -732,8 +732,8 @@
     "quantidade": 4
   },
   "Sticker | Nodios (Glitter) | Copenhagen 2024": {
-    "preco_inicial": 0.09,
-    "quantidade": 1
+    "preco_inicial": 0.12,
+    "quantidade": 2
   },
   "Sticker | Norwi (Glitter) | Antwerp 2022": {
     "preco_inicial": 0.12,
@@ -1869,7 +1869,7 @@
   },
   "Sticker | sh1ro (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.35,
-    "quantidade": 35
+    "quantidade": 36
   },
   "Sticker | sh1ro (Glitter) | Shanghai 2024": {
     "preco_inicial": 0.08,
@@ -1885,7 +1885,7 @@
   },
   "Sticker | sh1ro (Holo, Champion) | Shanghai 2024": {
     "preco_inicial": 0.52,
-    "quantidade": 38
+    "quantidade": 39
   },
   "Sticker | sh1ro | Antwerp 2022": {
     "preco_inicial": 0.09,
@@ -2236,6 +2236,7 @@
     "quantidade": 1
   }
 }
+
 
 
 
