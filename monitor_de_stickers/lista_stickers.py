@@ -155,7 +155,6 @@ STICKERS = [
     "Sticker | M80 (Foil) | Austin 2025",
     "Sticker | M80 | Austin 2025",
     "Sticker | MAJ3R (Glitter) | Copenhagen 2024",
-    "Sticker | mezii (Holo) | Austin 2025",
     "Sticker | MIBR (Foil) | Austin 2025",
     "Sticker | MIBR (Glitter) | Antwerp 2022",
     "Sticker | MIBR | Austin 2025",
@@ -556,6 +555,7 @@ STICKERS = [
     "Sticker | Renegades (Foil) | Berlin 2019",
     "Sticker | sense (Holo) | Copenhagen 2024"
 ]
+
 
 
 
