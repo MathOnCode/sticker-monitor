@@ -10,16 +10,16 @@
   "AWP | Atheris (Minimal Wear)": [
     {
       "preço_inicial": 49.85,
-      "preco": 49.18,
-      "porcentagem": -1.34,
+      "preco": 51.36,
+      "porcentagem": 3.03,
       "quantidade": 1
     }
   ],
   "Souvenir Charm | Austin 2025 Highlight | I'm Right Behind You": [
     {
       "preço_inicial": 2.0,
-      "preco": 2.92,
-      "porcentagem": 46.0,
+      "preco": 2.99,
+      "porcentagem": 49.5,
       "quantidade": 1
     }
   ],
@@ -42,32 +42,32 @@
   "Charm | Baby's AK": [
     {
       "preço_inicial": 2.01,
-      "preco": 3.73,
-      "porcentagem": 85.57,
+      "preco": 3.96,
+      "porcentagem": 97.01,
       "quantidade": 5
     }
   ],
   "Charm | Big Kev": [
     {
       "preço_inicial": 1.92,
-      "preco": 2.18,
-      "porcentagem": 13.54,
+      "preco": 2.22,
+      "porcentagem": 15.63,
       "quantidade": 7
     }
   ],
   "Charm | Chicken Lil'": [
     {
       "preço_inicial": 9.67,
-      "preco": 21.68,
-      "porcentagem": 124.2,
+      "preco": 21.7,
+      "porcentagem": 124.41,
       "quantidade": 1
     }
   ],
   "Charm | Hot Sauce": [
     {
       "preço_inicial": 2.53,
-      "preco": 2.33,
-      "porcentagem": -7.91,
+      "preco": 2.34,
+      "porcentagem": -7.51,
       "quantidade": 1
     }
   ],
@@ -98,8 +98,8 @@
   "Charm | Pinch O' Salt": [
     {
       "preço_inicial": 2.58,
-      "preco": 2.44,
-      "porcentagem": -5.43,
+      "preco": 2.47,
+      "porcentagem": -4.26,
       "quantidade": 11
     }
   ],
@@ -114,56 +114,56 @@
   "Charm | Stitch-Loaded": [
     {
       "preço_inicial": 1.12,
-      "preco": 1.22,
-      "porcentagem": 8.93,
+      "preco": 1.24,
+      "porcentagem": 10.71,
       "quantidade": 2
     }
   ],
   "Charm | That's Bananas": [
     {
       "preço_inicial": 11.09,
-      "preco": 15.54,
-      "porcentagem": 40.13,
+      "preco": 15.6,
+      "porcentagem": 40.67,
       "quantidade": 2
     }
   ],
   "Desert Eagle | Tilted (Minimal Wear)": [
     {
       "preço_inicial": 4.51,
-      "preco": 6.61,
-      "porcentagem": 46.56,
+      "preco": 6.63,
+      "porcentagem": 47.01,
       "quantidade": 1
     }
   ],
   "Sticker | 3DMAX (Foil) | Austin 2025": [
     {
       "preço_inicial": 1.06,
-      "preco": 1.23,
-      "porcentagem": 16.04,
+      "preco": 1.18,
+      "porcentagem": 11.32,
       "quantidade": 3
     }
   ],
   "Sticker | 3DMAX (Glitter) | Shanghai 2024": [
     {
       "preço_inicial": 3.3,
-      "preco": 2.72,
-      "porcentagem": -17.58,
+      "preco": 3.05,
+      "porcentagem": -7.58,
       "quantidade": 1
     }
   ],
   "Sticker | 3DMAX | Austin 2025": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.08,
-      "porcentagem": -11.11,
+      "preco": 0.09,
+      "porcentagem": 0.0,
       "quantidade": 30
     }
   ],
   "Sticker | 910 (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.92,
-      "preco": 1.06,
-      "porcentagem": 15.22,
+      "preco": 1.11,
+      "porcentagem": 20.65,
       "quantidade": 1
     }
   ],
@@ -186,8 +186,8 @@
   "Sticker | 9INE (Glitter) | Paris 2023": [
     {
       "preço_inicial": 1.11,
-      "preco": 1.2,
-      "porcentagem": 8.11,
+      "preco": 1.26,
+      "porcentagem": 13.51,
       "quantidade": 1
     }
   ],
@@ -226,24 +226,24 @@
   "Sticker | Apeks (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 3.02,
-      "preco": 4.76,
-      "porcentagem": 57.62,
+      "preco": 4.9,
+      "porcentagem": 62.25,
       "quantidade": 1
     }
   ],
   "Sticker | Aurora (Foil) | Austin 2025": [
     {
       "preço_inicial": 1.4,
-      "preco": 1.65,
-      "porcentagem": 17.86,
+      "preco": 1.55,
+      "porcentagem": 10.71,
       "quantidade": 1
     }
   ],
   "Sticker | Aurora | Austin 2025": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.09,
-      "porcentagem": 0.0,
+      "preco": 0.11,
+      "porcentagem": 22.22,
       "quantidade": 23
     }
   ],
@@ -258,16 +258,16 @@
   "Sticker | B8 (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.36,
-      "preco": 0.64,
-      "porcentagem": 77.78,
+      "preco": 0.66,
+      "porcentagem": 83.33,
       "quantidade": 14
     }
   ],
   "Sticker | B8 | Austin 2025": [
     {
       "preço_inicial": 0.05,
-      "preco": 0.06,
-      "porcentagem": 20.0,
+      "preco": 0.07,
+      "porcentagem": 40.0,
       "quantidade": 25
     }
   ],
@@ -306,24 +306,24 @@
   "Sticker | BetBoom (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.81,
-      "preco": 1.79,
-      "porcentagem": 120.99,
+      "preco": 1.78,
+      "porcentagem": 119.75,
       "quantidade": 2
     }
   ],
   "Sticker | BetBoom | Austin 2025": [
     {
       "preço_inicial": 0.08,
-      "preco": 0.24,
-      "porcentagem": 200.0,
+      "preco": 0.2,
+      "porcentagem": 150.0,
       "quantidade": 14
     }
   ],
   "Sticker | bodyy (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.47,
-      "preco": 8.37,
-      "porcentagem": 469.39,
+      "preco": 8.36,
+      "porcentagem": 468.71,
       "quantidade": 1
     }
   ],
@@ -354,8 +354,8 @@
   "Sticker | Brollan (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.29,
-      "preco": 5.91,
-      "porcentagem": 358.14,
+      "preco": 6.97,
+      "porcentagem": 440.31,
       "quantidade": 1
     }
   ],
@@ -378,8 +378,8 @@
   "Sticker | Chinggis Warriors (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.91,
-      "preco": 2.11,
-      "porcentagem": 131.87,
+      "preco": 1.98,
+      "porcentagem": 117.58,
       "quantidade": 2
     }
   ],
@@ -394,24 +394,24 @@
   "Sticker | Cloud9 (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 8.83,
-      "preco": 14.65,
-      "porcentagem": 65.91,
+      "preco": 14.64,
+      "porcentagem": 65.8,
       "quantidade": 1
     }
   ],
   "Sticker | Complexity Gaming (Foil) | Austin 2025": [
     {
       "preço_inicial": 2.12,
-      "preco": 4.6,
-      "porcentagem": 116.98,
+      "preco": 4.32,
+      "porcentagem": 103.77,
       "quantidade": 1
     }
   ],
   "Sticker | Complexity Gaming (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 1.06,
-      "preco": 3.24,
-      "porcentagem": 205.66,
+      "preco": 2.66,
+      "porcentagem": 150.94,
       "quantidade": 2
     }
   ],
@@ -442,24 +442,24 @@
   "Sticker | device | Stockholm 2021": [
     {
       "preço_inicial": 0.43,
-      "preco": 0.78,
-      "porcentagem": 81.4,
+      "preco": 0.93,
+      "porcentagem": 116.28,
       "quantidade": 1
     }
   ],
   "Sticker | ECSTATIC (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 3.19,
-      "preco": 3.04,
-      "porcentagem": -4.7,
+      "preco": 3.02,
+      "porcentagem": -5.33,
       "quantidade": 1
     }
   ],
   "Sticker | ENCE (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 1.2,
-      "preco": 0.85,
-      "porcentagem": -29.17,
+      "preco": 0.94,
+      "porcentagem": -21.67,
       "quantidade": 2
     }
   ],
@@ -506,8 +506,8 @@
   "Sticker | Ex3rcice (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.15,
-      "preco": 8.66,
-      "porcentagem": 653.04,
+      "preco": 7.64,
+      "porcentagem": 564.35,
       "quantidade": 1
     }
   ],
@@ -562,24 +562,24 @@
   "Sticker | FURIA (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 1.0,
-      "preco": 1.78,
-      "porcentagem": 78.0,
+      "preco": 1.66,
+      "porcentagem": 66.0,
       "quantidade": 1
     }
   ],
   "Sticker | FURIA (Glitter) | Rio 2022": [
     {
       "preço_inicial": 0.51,
-      "preco": 1.15,
-      "porcentagem": 125.49,
+      "preco": 1.17,
+      "porcentagem": 129.41,
       "quantidade": 9
     }
   ],
   "Sticker | FURIA | Austin 2025": [
     {
       "preço_inicial": 0.18,
-      "preco": 0.17,
-      "porcentagem": -5.56,
+      "preco": 0.18,
+      "porcentagem": 0.0,
       "quantidade": 16
     }
   ],
@@ -610,16 +610,16 @@
   "Sticker | Falcons | Austin 2025": [
     {
       "preço_inicial": 0.9,
-      "preco": 0.38,
-      "porcentagem": -57.78,
+      "preco": 0.39,
+      "porcentagem": -56.67,
       "quantidade": 1
     }
   ],
   "Sticker | FlameZ (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.13,
-      "preco": 0.27,
-      "porcentagem": 107.69,
+      "preco": 0.25,
+      "porcentagem": 92.31,
       "quantidade": 5
     }
   ],
@@ -634,8 +634,8 @@
   "Sticker | Fluxo (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.3,
-      "preco": 0.39,
-      "porcentagem": 30.0,
+      "preco": 0.38,
+      "porcentagem": 26.67,
       "quantidade": 6
     }
   ],
@@ -650,8 +650,8 @@
   "Sticker | FlyQuest (Foil) | Austin 2025": [
     {
       "preço_inicial": 1.24,
-      "preco": 1.79,
-      "porcentagem": 44.35,
+      "preco": 1.75,
+      "porcentagem": 41.13,
       "quantidade": 1
     }
   ],
@@ -674,8 +674,8 @@
   "Sticker | G2 Esports | Austin 2025": [
     {
       "preço_inicial": 0.05,
-      "preco": 0.05,
-      "porcentagem": 0.0,
+      "preco": 0.06,
+      "porcentagem": 20.0,
       "quantidade": 1
     }
   ],
@@ -698,8 +698,8 @@
   "Sticker | GamerLegion (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 2.26,
-      "preco": 2.66,
-      "porcentagem": 17.7,
+      "preco": 2.7,
+      "porcentagem": 19.47,
       "quantidade": 1
     }
   ],
@@ -714,8 +714,8 @@
   "Sticker | Goofy (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.43,
-      "preco": 0.5,
-      "porcentagem": 16.28,
+      "preco": 0.49,
+      "porcentagem": 13.95,
       "quantidade": 12
     }
   ],
@@ -738,8 +738,8 @@
   "Sticker | Goofy | Copenhagen 2024": [
     {
       "preço_inicial": 0.08,
-      "preco": 0.07,
-      "porcentagem": -12.5,
+      "preco": 0.06,
+      "porcentagem": -25.0,
       "quantidade": 5
     }
   ],
@@ -762,8 +762,8 @@
   "Sticker | Grim (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.25,
-      "preco": 0.78,
-      "porcentagem": 212.0,
+      "preco": 0.77,
+      "porcentagem": 208.0,
       "quantidade": 2
     }
   ],
@@ -786,8 +786,8 @@
   "Sticker | Heavygod (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.12,
-      "preco": 0.18,
-      "porcentagem": 50.0,
+      "preco": 0.2,
+      "porcentagem": 66.67,
       "quantidade": 5
     }
   ],
@@ -810,8 +810,8 @@
   "Sticker | Heavygod (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.2,
-      "preco": 7.97,
-      "porcentagem": 564.17,
+      "preco": 7.68,
+      "porcentagem": 540.0,
       "quantidade": 3
     }
   ],
@@ -826,8 +826,8 @@
   "Sticker | Heroic (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.49,
-      "preco": 1.29,
-      "porcentagem": 163.27,
+      "preco": 1.24,
+      "porcentagem": 153.06,
       "quantidade": 1
     }
   ],
@@ -866,8 +866,8 @@
   "Sticker | IHC Esports (Glitter) | Antwerp 2022": [
     {
       "preço_inicial": 1.06,
-      "preco": 1.18,
-      "porcentagem": 11.32,
+      "preco": 1.15,
+      "porcentagem": 8.49,
       "quantidade": 3
     }
   ],
@@ -882,8 +882,8 @@
   "Sticker | IHC Esports | Antwerp 2022": [
     {
       "preço_inicial": 0.07,
-      "preco": 0.06,
-      "porcentagem": -14.29,
+      "preco": 0.05,
+      "porcentagem": -28.57,
       "quantidade": 1
     }
   ],
@@ -898,16 +898,16 @@
   "Sticker | ICY (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.14,
-      "preco": 0.36,
-      "porcentagem": 157.14,
+      "preco": 0.38,
+      "porcentagem": 171.43,
       "quantidade": 1
     }
   ],
   "Sticker | ICY (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.07,
-      "preco": 0.31,
-      "porcentagem": 342.86,
+      "preco": 0.21,
+      "porcentagem": 200.0,
       "quantidade": 8
     }
   ],
@@ -922,8 +922,8 @@
   "Sticker | Imperial Esports (Foil) | Austin 2025": [
     {
       "preço_inicial": 1.12,
-      "preco": 1.85,
-      "porcentagem": 65.18,
+      "preco": 1.81,
+      "porcentagem": 61.61,
       "quantidade": 1
     }
   ],
@@ -938,16 +938,16 @@
   "Sticker | Imperial Esports | Austin 2025": [
     {
       "preço_inicial": 0.08,
-      "preco": 0.08,
-      "porcentagem": 0.0,
+      "preco": 0.09,
+      "porcentagem": 12.5,
       "quantidade": 15
     }
   ],
   "Sticker | Into The Breach (Glitter) | Paris 2023": [
     {
       "preço_inicial": 0.51,
-      "preco": 0.59,
-      "porcentagem": 15.69,
+      "preco": 0.52,
+      "porcentagem": 1.96,
       "quantidade": 2
     }
   ],
@@ -970,16 +970,16 @@
   "Sticker | Jame (Glitter, Champion) | Rio 2022": [
     {
       "preço_inicial": 0.51,
-      "preco": 0.84,
-      "porcentagem": 64.71,
+      "preco": 0.83,
+      "porcentagem": 62.75,
       "quantidade": 2
     }
   ],
   "Sticker | Jame | Antwerp 2022": [
     {
       "preço_inicial": 0.21,
-      "preco": 0.3,
-      "porcentagem": 42.86,
+      "preco": 0.21,
+      "porcentagem": 0.0,
       "quantidade": 3
     }
   ],
@@ -1010,16 +1010,16 @@
   "Sticker | Jimpphat (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.28,
-      "preco": 0.49,
-      "porcentagem": 75.0,
+      "preco": 0.42,
+      "porcentagem": 50.0,
       "quantidade": 15
     }
   ],
   "Sticker | Jimpphat (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.1,
-      "preco": 6.63,
-      "porcentagem": 502.73,
+      "preco": 7.75,
+      "porcentagem": 604.55,
       "quantidade": 2
     }
   ],
@@ -1042,8 +1042,8 @@
   "Sticker | KOI (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 3.58,
-      "preco": 9.26,
-      "porcentagem": 158.66,
+      "preco": 9.83,
+      "porcentagem": 174.58,
       "quantidade": 2
     }
   ],
@@ -1066,8 +1066,8 @@
   "Sticker | KSCERATO (Glitter) | Antwerp 2022": [
     {
       "preço_inicial": 0.37,
-      "preco": 0.92,
-      "porcentagem": 148.65,
+      "preco": 0.94,
+      "porcentagem": 154.05,
       "quantidade": 3
     }
   ],
@@ -1082,8 +1082,8 @@
   "Sticker | KSCERATO (Glitter) | Paris 2023": [
     {
       "preço_inicial": 0.11,
-      "preco": 0.26,
-      "porcentagem": 136.36,
+      "preco": 0.32,
+      "porcentagem": 190.91,
       "quantidade": 8
     }
   ],
@@ -1098,8 +1098,8 @@
   "Sticker | KSCERATO (Holo) | Austin 2025": [
     {
       "preço_inicial": 3.57,
-      "preco": 13.8,
-      "porcentagem": 286.55,
+      "preco": 25.07,
+      "porcentagem": 602.24,
       "quantidade": 3
     }
   ],
@@ -1138,64 +1138,64 @@
   "Sticker | Kylar (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.15,
-      "preco": 0.46,
-      "porcentagem": 206.67,
+      "preco": 0.42,
+      "porcentagem": 180.0,
       "quantidade": 1
     }
   ],
   "Sticker | Lake (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.3,
-      "porcentagem": 233.33,
+      "preco": 0.31,
+      "porcentagem": 244.44,
       "quantidade": 2
     }
   ],
   "Sticker | Lake (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.18,
-      "preco": 8.55,
-      "porcentagem": 624.58,
+      "preco": 10.6,
+      "porcentagem": 798.31,
       "quantidade": 3
     }
   ],
   "Sticker | Lake | Austin 2025": [
     {
       "preço_inicial": 0.04,
-      "preco": 0.06,
-      "porcentagem": 50.0,
+      "preco": 0.07,
+      "porcentagem": 75.0,
       "quantidade": 8
     }
   ],
   "Sticker | Legacy (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.55,
-      "preco": 0.99,
-      "porcentagem": 80.0,
+      "preco": 0.97,
+      "porcentagem": 76.36,
       "quantidade": 8
     }
   ],
   "Sticker | Legacy (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.3,
-      "preco": 1.3,
-      "porcentagem": 333.33,
+      "preco": 1.35,
+      "porcentagem": 350.0,
       "quantidade": 6
     }
   ],
   "Sticker | Legacy (Holo) | Copenhagen 2024": [
     {
       "preço_inicial": 1.6,
-      "preco": 51.36,
-      "porcentagem": 3110.0,
+      "preco": 58.27,
+      "porcentagem": 3541.87,
       "quantidade": 1
     }
   ],
   "Sticker | Legacy | Austin 2025": [
     {
       "preço_inicial": 0.05,
-      "preco": 0.09,
-      "porcentagem": 80.0,
+      "preco": 0.1,
+      "porcentagem": 100.0,
       "quantidade": 5
     }
   ],
@@ -1210,24 +1210,24 @@
   "Sticker | Lynn Vision (Foil) | Austin 2025": [
     {
       "preço_inicial": 2.71,
-      "preco": 3.59,
-      "porcentagem": 32.47,
+      "preco": 3.61,
+      "porcentagem": 33.21,
       "quantidade": 1
     }
   ],
   "Sticker | Lynn Vision | Austin 2025": [
     {
       "preço_inicial": 0.3,
-      "preco": 0.32,
-      "porcentagem": 6.67,
+      "preco": 0.35,
+      "porcentagem": 16.67,
       "quantidade": 1
     }
   ],
   "Sticker | M80 (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.3,
-      "preco": 3.42,
-      "porcentagem": 1040.0,
+      "preco": 2.91,
+      "porcentagem": 870.0,
       "quantidade": 1
     }
   ],
@@ -1250,24 +1250,24 @@
   "Sticker | mezii (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.15,
-      "preco": 9.98,
-      "porcentagem": 767.83,
+      "preco": 12.35,
+      "porcentagem": 973.91,
       "quantidade": 1
     }
   ],
   "Sticker | MIBR (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.34,
-      "preco": 0.43,
-      "porcentagem": 26.47,
+      "preco": 0.37,
+      "porcentagem": 8.82,
       "quantidade": 9
     }
   ],
   "Sticker | MIBR (Glitter) | Antwerp 2022": [
     {
       "preço_inicial": 0.6,
-      "preco": 0.86,
-      "porcentagem": 43.33,
+      "preco": 0.74,
+      "porcentagem": 23.33,
       "quantidade": 1
     }
   ],
@@ -1314,16 +1314,16 @@
   "Sticker | Metizport (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.5,
-      "preco": 1.19,
-      "porcentagem": 138.0,
+      "preco": 1.2,
+      "porcentagem": 140.0,
       "quantidade": 5
     }
   ],
   "Sticker | Metizport | Austin 2025": [
     {
       "preço_inicial": 0.12,
-      "preco": 0.18,
-      "porcentagem": 50.0,
+      "preco": 0.19,
+      "porcentagem": 58.33,
       "quantidade": 20
     }
   ],
@@ -1338,8 +1338,8 @@
   "Sticker | NQZ (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.3,
-      "preco": 0.8,
-      "porcentagem": 166.67,
+      "preco": 0.81,
+      "porcentagem": 170.0,
       "quantidade": 1
     }
   ],
@@ -1370,8 +1370,8 @@
   "Sticker | NQZ (Holo) | Copenhagen 2024": [
     {
       "preço_inicial": 1.54,
-      "preco": 4.27,
-      "porcentagem": 177.27,
+      "preco": 4.1,
+      "porcentagem": 166.23,
       "quantidade": 3
     }
   ],
@@ -1402,40 +1402,40 @@
   "Sticker | Natus Vincere (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.6,
-      "preco": 0.62,
-      "porcentagem": 3.33,
+      "preco": 0.7,
+      "porcentagem": 16.67,
       "quantidade": 8
     }
   ],
   "Sticker | Natus Vincere (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 3.65,
-      "preco": 5.09,
-      "porcentagem": 39.45,
+      "preco": 5.02,
+      "porcentagem": 37.53,
       "quantidade": 1
     }
   ],
   "Sticker | Natus Vincere (Holo) | Copenhagen 2024": [
     {
       "preço_inicial": 10.34,
-      "preco": 59.76,
-      "porcentagem": 477.95,
+      "preco": 59.89,
+      "porcentagem": 479.21,
       "quantidade": 2
     }
   ],
   "Sticker | Natus Vincere | Austin 2025": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.07,
-      "porcentagem": -22.22,
+      "preco": 0.08,
+      "porcentagem": -11.11,
       "quantidade": 30
     }
   ],
   "Sticker | Nemiga (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.87,
-      "preco": 1.73,
-      "porcentagem": 98.85,
+      "preco": 1.75,
+      "porcentagem": 101.15,
       "quantidade": 2
     }
   ],
@@ -1482,16 +1482,16 @@
   "Sticker | OG (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.36,
-      "preco": 0.58,
-      "porcentagem": 61.11,
+      "preco": 0.59,
+      "porcentagem": 63.89,
       "quantidade": 4
     }
   ],
   "Sticker | OG | Austin 2025": [
     {
       "preço_inicial": 0.05,
-      "preco": 0.06,
-      "porcentagem": 20.0,
+      "preco": 0.07,
+      "porcentagem": 40.0,
       "quantidade": 1
     }
   ],
@@ -1506,8 +1506,8 @@
   "Sticker | Outsiders (Holo) | Rio 2022": [
     {
       "preço_inicial": 4.55,
-      "preco": 53.13,
-      "porcentagem": 1067.69,
+      "preco": 56.39,
+      "porcentagem": 1139.34,
       "quantidade": 3
     }
   ],
@@ -1530,8 +1530,8 @@
   "Sticker | REZ (Glitter) | Antwerp 2022": [
     {
       "preço_inicial": 0.21,
-      "preco": 0.25,
-      "porcentagem": 19.05,
+      "preco": 0.24,
+      "porcentagem": 14.29,
       "quantidade": 5
     }
   ],
@@ -1554,8 +1554,8 @@
   "Sticker | Renegades (Glitter) | Antwerp 2022": [
     {
       "preço_inicial": 0.32,
-      "preco": 1.26,
-      "porcentagem": 293.75,
+      "preco": 1.29,
+      "porcentagem": 303.12,
       "quantidade": 20
     }
   ],
@@ -1570,8 +1570,8 @@
   "Sticker | SAW (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 6.86,
-      "preco": 7.43,
-      "porcentagem": 8.31,
+      "preco": 7.47,
+      "porcentagem": 8.89,
       "quantidade": 1
     }
   ],
@@ -1586,8 +1586,8 @@
   "Sticker | Senzu (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.11,
-      "preco": 0.25,
-      "porcentagem": 127.27,
+      "preco": 0.2,
+      "porcentagem": 81.82,
       "quantidade": 67
     }
   ],
@@ -1714,8 +1714,8 @@
   "Sticker | Swisher (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.01,
-      "preco": 12.3,
-      "porcentagem": 1117.82,
+      "preco": 12.8,
+      "porcentagem": 1167.33,
       "quantidade": 1
     }
   ],
@@ -1746,8 +1746,8 @@
   "Sticker | TYLOO (Foil) | Austin 2025": [
     {
       "preço_inicial": 6.47,
-      "preco": 7.25,
-      "porcentagem": 12.06,
+      "preco": 7.27,
+      "porcentagem": 12.36,
       "quantidade": 1
     }
   ],
@@ -1762,8 +1762,8 @@
   "Sticker | TeSeS (Glitter) | Rio 2022": [
     {
       "preço_inicial": 0.36,
-      "preco": 0.64,
-      "porcentagem": 77.78,
+      "preco": 0.63,
+      "porcentagem": 75.0,
       "quantidade": 2
     }
   ],
@@ -1786,32 +1786,32 @@
   "Sticker | Team Liquid (Glitter) | Paris 2023": [
     {
       "preço_inicial": 0.4,
-      "preco": 0.55,
-      "porcentagem": 37.5,
+      "preco": 0.58,
+      "porcentagem": 45.0,
       "quantidade": 5
     }
   ],
   "Sticker | Team Liquid | Austin 2025": [
     {
       "preço_inicial": 0.05,
-      "preco": 0.06,
-      "porcentagem": 20.0,
+      "preco": 0.07,
+      "porcentagem": 40.0,
       "quantidade": 10
     }
   ],
   "Sticker | Team Spirit (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.99,
-      "preco": 0.76,
-      "porcentagem": -23.23,
+      "preco": 0.78,
+      "porcentagem": -21.21,
       "quantidade": 2
     }
   ],
   "Sticker | Team Spirit (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 4.0,
-      "preco": 5.23,
-      "porcentagem": 30.75,
+      "preco": 4.91,
+      "porcentagem": 22.75,
       "quantidade": 1
     }
   ],
@@ -1826,8 +1826,8 @@
   "Sticker | Techno4K (Glitter) | Antwerp 2022": [
     {
       "preço_inicial": 0.11,
-      "preco": 0.16,
-      "porcentagem": 45.45,
+      "preco": 0.15,
+      "porcentagem": 36.36,
       "quantidade": 6
     }
   ],
@@ -1874,8 +1874,8 @@
   "Sticker | The MongolZ (Holo) | Copenhagen 2024": [
     {
       "preço_inicial": 2.6,
-      "preco": 27.5,
-      "porcentagem": 957.69,
+      "preco": 26.95,
+      "porcentagem": 936.54,
       "quantidade": 3
     }
   ],
@@ -1898,8 +1898,8 @@
   "Sticker | tN1R (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.54,
-      "preco": 2.81,
-      "porcentagem": 420.37,
+      "preco": 2.8,
+      "porcentagem": 418.52,
       "quantidade": 5
     }
   ],
@@ -1922,16 +1922,16 @@
   "Sticker | Virtus.Pro (Foil) | Austin 2025": [
     {
       "preço_inicial": 1.09,
-      "preco": 0.82,
-      "porcentagem": -24.77,
+      "preco": 0.86,
+      "porcentagem": -21.1,
       "quantidade": 2
     }
   ],
   "Sticker | Virtus.Pro | Austin 2025": [
     {
       "preço_inicial": 0.17,
-      "preco": 0.1,
-      "porcentagem": -41.18,
+      "preco": 0.11,
+      "porcentagem": -35.29,
       "quantidade": 3
     }
   ],
@@ -1946,8 +1946,8 @@
   "Sticker | Vitality (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.66,
-      "preco": 0.58,
-      "porcentagem": -12.12,
+      "preco": 0.59,
+      "porcentagem": -10.61,
       "quantidade": 3
     }
   ],
@@ -1994,8 +1994,8 @@
   "Sticker | Wicadia (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.1,
-      "preco": 0.21,
-      "porcentagem": 110.0,
+      "preco": 0.2,
+      "porcentagem": 100.0,
       "quantidade": 1
     }
   ],
@@ -2010,16 +2010,16 @@
   "Sticker | Wicadia (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.05,
-      "preco": 6.32,
-      "porcentagem": 501.9,
+      "preco": 7.59,
+      "porcentagem": 622.86,
       "quantidade": 2
     }
   ],
   "Sticker | Wicadia | Copenhagen 2024": [
     {
       "preço_inicial": 0.08,
-      "preco": 0.08,
-      "porcentagem": 0.0,
+      "preco": 0.07,
+      "porcentagem": -12.5,
       "quantidade": 4
     }
   ],
@@ -2034,24 +2034,24 @@
   "Sticker | Wildcard | Austin 2025": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.35,
-      "porcentagem": 288.89,
+      "preco": 0.28,
+      "porcentagem": 211.11,
       "quantidade": 15
     }
   ],
   "Sticker | XANTARES | Antwerp 2022": [
     {
       "preço_inicial": 0.87,
-      "preco": 0.77,
-      "porcentagem": -11.49,
+      "preco": 0.64,
+      "porcentagem": -26.44,
       "quantidade": 1
     }
   ],
   "Sticker | XANTARES | Copenhagen 2024": [
     {
       "preço_inicial": 0.76,
-      "preco": 0.42,
-      "porcentagem": -44.74,
+      "preco": 0.41,
+      "porcentagem": -46.05,
       "quantidade": 1
     }
   ],
@@ -2090,8 +2090,8 @@
   "Sticker | YEKINDAR | Antwerp 2022": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.11,
-      "porcentagem": 22.22,
+      "preco": 0.09,
+      "porcentagem": 0.0,
       "quantidade": 6
     }
   ],
@@ -2194,8 +2194,8 @@
   "Sticker | apEX (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.15,
-      "preco": 0.6,
-      "porcentagem": 300.0,
+      "preco": 0.92,
+      "porcentagem": 513.33,
       "quantidade": 1
     }
   ],
@@ -2234,8 +2234,8 @@
   "Sticker | arT (Glitter) | Paris 2023": [
     {
       "preço_inicial": 0.17,
-      "preco": 0.19,
-      "porcentagem": 11.76,
+      "preco": 0.23,
+      "porcentagem": 35.29,
       "quantidade": 3
     }
   ],
@@ -2290,16 +2290,16 @@
   "Sticker | b1t (Glitter) | Rio 2022": [
     {
       "preço_inicial": 1.31,
-      "preco": 1.98,
-      "porcentagem": 51.15,
+      "preco": 1.92,
+      "porcentagem": 46.56,
       "quantidade": 1
     }
   ],
   "Sticker | b1t (Glitter) | Shanghai 2024": [
     {
       "preço_inicial": 0.12,
-      "preco": 0.14,
-      "porcentagem": 16.67,
+      "preco": 0.15,
+      "porcentagem": 25.0,
       "quantidade": 16
     }
   ],
@@ -2354,8 +2354,8 @@
   "Sticker | biguzera (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.06,
-      "preco": 0.27,
-      "porcentagem": 350.0,
+      "preco": 0.31,
+      "porcentagem": 416.67,
       "quantidade": 2
     }
   ],
@@ -2410,8 +2410,8 @@
   "Sticker | brnz4n (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.07,
-      "preco": 0.31,
-      "porcentagem": 342.86,
+      "preco": 0.23,
+      "porcentagem": 228.57,
       "quantidade": 1
     }
   ],
@@ -2426,8 +2426,8 @@
   "Sticker | broky (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.46,
-      "preco": 0.72,
-      "porcentagem": 56.52,
+      "preco": 0.74,
+      "porcentagem": 60.87,
       "quantidade": 2
     }
   ],
@@ -2466,8 +2466,8 @@
   "Sticker | coldzera (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.11,
-      "preco": 0.58,
-      "porcentagem": 427.27,
+      "preco": 0.55,
+      "porcentagem": 400.0,
       "quantidade": 15
     }
   ],
@@ -2490,16 +2490,16 @@
   "Sticker | dav1d | Antwerp 2022": [
     {
       "preço_inicial": 0.11,
-      "preco": 0.1,
-      "porcentagem": -9.09,
+      "preco": 0.09,
+      "porcentagem": -18.18,
       "quantidade": 3
     }
   ],
   "Sticker | dav1deuS | Austin 2025": [
     {
       "preço_inicial": 0.04,
-      "preco": 0.04,
-      "porcentagem": 0.0,
+      "preco": 0.05,
+      "porcentagem": 25.0,
       "quantidade": 4
     }
   ],
@@ -2530,16 +2530,16 @@
   "Sticker | degster (Glitter) | Antwerp 2022": [
     {
       "preço_inicial": 0.6,
-      "preco": 0.53,
-      "porcentagem": -11.67,
+      "preco": 0.57,
+      "porcentagem": -5.0,
       "quantidade": 1
     }
   ],
   "Sticker | dgt (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.15,
-      "preco": 0.36,
-      "porcentagem": 140.0,
+      "preco": 0.37,
+      "porcentagem": 146.67,
       "quantidade": 1
     }
   ],
@@ -2562,40 +2562,40 @@
   "Sticker | donk (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 9.36,
-      "preco": 18.74,
-      "porcentagem": 100.21,
+      "preco": 19.0,
+      "porcentagem": 102.99,
       "quantidade": 7
     }
   ],
   "Sticker | donk (Glitter) | Shanghai 2024": [
     {
       "preço_inicial": 3.83,
-      "preco": 6.44,
-      "porcentagem": 68.15,
+      "preco": 6.63,
+      "porcentagem": 73.11,
       "quantidade": 1
     }
   ],
   "Sticker | donk (Glitter, Champion) | Shanghai 2024": [
     {
       "preço_inicial": 0.5,
-      "preco": 2.72,
-      "porcentagem": 444.0,
+      "preco": 2.99,
+      "porcentagem": 498.0,
       "quantidade": 50
     }
   ],
   "Sticker | donk (Holo, Champion) | Shanghai 2024": [
     {
       "preço_inicial": 10.0,
-      "preco": 18.09,
-      "porcentagem": 80.9,
+      "preco": 18.31,
+      "porcentagem": 83.1,
       "quantidade": 2
     }
   ],
   "Sticker | donk | Copenhagen 2024": [
     {
       "preço_inicial": 1.0,
-      "preco": 2.11,
-      "porcentagem": 111.0,
+      "preco": 2.15,
+      "porcentagem": 115.0,
       "quantidade": 2
     }
   ],
@@ -2666,8 +2666,8 @@
   "Sticker | electronic (Glitter) | Paris 2023": [
     {
       "preço_inicial": 0.11,
-      "preco": 0.13,
-      "porcentagem": 18.18,
+      "preco": 0.14,
+      "porcentagem": 27.27,
       "quantidade": 3
     }
   ],
@@ -2682,8 +2682,8 @@
   "Sticker | fEAR (Glitter) | Shanghai 2024": [
     {
       "preço_inicial": 0.37,
-      "preco": 0.36,
-      "porcentagem": -2.7,
+      "preco": 0.28,
+      "porcentagem": -24.32,
       "quantidade": 5
     }
   ],
@@ -2722,8 +2722,8 @@
   "Sticker | FalleN | Copenhagen 2024": [
     {
       "preço_inicial": 0.3,
-      "preco": 1.05,
-      "porcentagem": 250.0,
+      "preco": 1.1,
+      "porcentagem": 266.67,
       "quantidade": 5
     }
   ],
@@ -2738,8 +2738,8 @@
   "Sticker | fame (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.25,
-      "preco": 0.29,
-      "porcentagem": 16.0,
+      "preco": 0.25,
+      "porcentagem": 0.0,
       "quantidade": 2
     }
   ],
@@ -2762,8 +2762,8 @@
   "Sticker | forZe eSports (Glitter) | Paris 2023": [
     {
       "preço_inicial": 0.38,
-      "preco": 0.53,
-      "porcentagem": 39.47,
+      "preco": 0.57,
+      "porcentagem": 50.0,
       "quantidade": 2
     }
   ],
@@ -2794,8 +2794,8 @@
   "Sticker | frozen (Glitter) | Shanghai 2024": [
     {
       "preço_inicial": 0.23,
-      "preco": 0.17,
-      "porcentagem": -26.09,
+      "preco": 0.2,
+      "porcentagem": -13.04,
       "quantidade": 1
     }
   ],
@@ -2818,8 +2818,8 @@
   "Sticker | gxx- (Glitter) | Antwerp 2022": [
     {
       "preço_inicial": 0.23,
-      "preco": 0.18,
-      "porcentagem": -21.74,
+      "preco": 0.17,
+      "porcentagem": -26.09,
       "quantidade": 2
     }
   ],
@@ -2834,8 +2834,8 @@
   "Sticker | hades (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.23,
-      "porcentagem": 155.56,
+      "preco": 0.25,
+      "porcentagem": 177.78,
       "quantidade": 2
     }
   ],
@@ -2850,8 +2850,8 @@
   "Sticker | hades (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.1,
-      "preco": 9.96,
-      "porcentagem": 805.45,
+      "preco": 16.71,
+      "porcentagem": 1419.09,
       "quantidade": 1
     }
   ],
@@ -2906,8 +2906,8 @@
   "Sticker | huNter- (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.32,
-      "porcentagem": 255.56,
+      "preco": 0.28,
+      "porcentagem": 211.11,
       "quantidade": 6
     }
   ],
@@ -2922,8 +2922,8 @@
   "Sticker | huNter- (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.37,
-      "preco": 0.5,
-      "porcentagem": 35.14,
+      "preco": 0.65,
+      "porcentagem": 75.68,
       "quantidade": 7
     }
   ],
@@ -2938,8 +2938,8 @@
   "Sticker | huNter- (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.1,
-      "preco": 7.83,
-      "porcentagem": 611.82,
+      "preco": 8.32,
+      "porcentagem": 656.36,
       "quantidade": 1
     }
   ],
@@ -2962,8 +2962,8 @@
   "Sticker | iM (Glitter) | Shanghai 2024": [
     {
       "preço_inicial": 0.12,
-      "preco": 0.12,
-      "porcentagem": 0.0,
+      "preco": 0.11,
+      "porcentagem": -8.33,
       "quantidade": 1
     }
   ],
@@ -2978,16 +2978,16 @@
   "Sticker | iM | Austin 2025": [
     {
       "preço_inicial": 0.39,
-      "preco": 0.58,
-      "porcentagem": 48.72,
+      "preco": 0.75,
+      "porcentagem": 92.31,
       "quantidade": 7
     }
   ],
   "Sticker | insani (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.43,
-      "porcentagem": 377.78,
+      "preco": 0.48,
+      "porcentagem": 433.33,
       "quantidade": 3
     }
   ],
@@ -3010,16 +3010,16 @@
   "Sticker | insani (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.3,
-      "preco": 12.28,
-      "porcentagem": 844.62,
+      "preco": 12.13,
+      "porcentagem": 833.08,
       "quantidade": 3
     }
   ],
   "Sticker | insani (Holo) | Shanghai 2024": [
     {
       "preço_inicial": 1.2,
-      "preco": 3.41,
-      "porcentagem": 184.17,
+      "preco": 3.11,
+      "porcentagem": 159.17,
       "quantidade": 4
     }
   ],
@@ -3042,16 +3042,16 @@
   "Sticker | isak | Austin 2025": [
     {
       "preço_inicial": 0.05,
-      "preco": 0.06,
-      "porcentagem": 20.0,
+      "preco": 0.05,
+      "porcentagem": 0.0,
       "quantidade": 10
     }
   ],
   "Sticker | jL (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.25,
-      "preco": 0.62,
-      "porcentagem": 148.0,
+      "preco": 0.64,
+      "porcentagem": 156.0,
       "quantidade": 1
     }
   ],
@@ -3146,8 +3146,8 @@
   "Sticker | karrigan (Glitter, Champion) | Antwerp 2022": [
     {
       "preço_inicial": 0.24,
-      "preco": 0.53,
-      "porcentagem": 120.83,
+      "preco": 0.5,
+      "porcentagem": 108.33,
       "quantidade": 8
     }
   ],
@@ -3234,16 +3234,16 @@
   "Sticker | lux | Austin 2025": [
     {
       "preço_inicial": 0.06,
-      "preco": 0.08,
-      "porcentagem": 33.33,
+      "preco": 0.11,
+      "porcentagem": 83.33,
       "quantidade": 5
     }
   ],
   "Sticker | m0NESY (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 5.59,
-      "preco": 4.46,
-      "porcentagem": -20.21,
+      "preco": 4.45,
+      "porcentagem": -20.39,
       "quantidade": 8
     }
   ],
@@ -3266,24 +3266,24 @@
   "Sticker | magixx (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.6,
-      "preco": 1.72,
-      "porcentagem": 186.67,
+      "preco": 1.67,
+      "porcentagem": 178.33,
       "quantidade": 2
     }
   ],
   "Sticker | magixx (Glitter, Champion) | Shanghai 2024": [
     {
       "preço_inicial": 0.07,
-      "preco": 0.15,
-      "porcentagem": 114.29,
+      "preco": 0.17,
+      "porcentagem": 142.86,
       "quantidade": 3
     }
   ],
   "Sticker | magixx (Holo, Champion) | Shanghai 2024": [
     {
       "preço_inicial": 1.1,
-      "preco": 3.23,
-      "porcentagem": 193.64,
+      "preco": 3.54,
+      "porcentagem": 221.82,
       "quantidade": 2
     }
   ],
@@ -3322,16 +3322,16 @@
   "Sticker | malbsMd (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.1,
-      "preco": 7.56,
-      "porcentagem": 587.27,
+      "preco": 7.36,
+      "porcentagem": 569.09,
       "quantidade": 5
     }
   ],
   "Sticker | malbsMd (Holo) | Shanghai 2024": [
     {
       "preço_inicial": 1.5,
-      "preco": 1.93,
-      "porcentagem": 28.67,
+      "preco": 2.44,
+      "porcentagem": 62.67,
       "quantidade": 2
     }
   ],
@@ -3346,8 +3346,8 @@
   "Sticker | molodoy (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.5,
-      "preco": 4.86,
-      "porcentagem": 872.0,
+      "preco": 4.62,
+      "porcentagem": 824.0,
       "quantidade": 1
     }
   ],
@@ -3362,8 +3362,8 @@
   "Sticker | mzinho (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.07,
-      "preco": 0.25,
-      "porcentagem": 257.14,
+      "preco": 0.26,
+      "porcentagem": 271.43,
       "quantidade": 12
     }
   ],
@@ -3378,8 +3378,8 @@
   "Sticker | mzinho (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.4,
-      "preco": 7.97,
-      "porcentagem": 469.29,
+      "preco": 8.23,
+      "porcentagem": 487.86,
       "quantidade": 3
     }
   ],
@@ -3394,8 +3394,8 @@
   "Sticker | n0rb3r7 (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.23,
-      "preco": 0.49,
-      "porcentagem": 113.04,
+      "preco": 0.42,
+      "porcentagem": 82.61,
       "quantidade": 3
     }
   ],
@@ -3426,8 +3426,8 @@
   "Sticker | nexa (Glitter) | Rio 2022": [
     {
       "preço_inicial": 2.1,
-      "preco": 2.58,
-      "porcentagem": 22.86,
+      "preco": 2.5,
+      "porcentagem": 19.05,
       "quantidade": 1
     }
   ],
@@ -3490,24 +3490,24 @@
   "Sticker | oSee | Austin 2025": [
     {
       "preço_inicial": 0.1,
-      "preco": 0.53,
-      "porcentagem": 430.0,
+      "preco": 0.55,
+      "porcentagem": 450.0,
       "quantidade": 11
     }
   ],
   "Sticker | paiN Gaming (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.28,
-      "preco": 0.31,
-      "porcentagem": 10.71,
+      "preco": 0.36,
+      "porcentagem": 28.57,
       "quantidade": 4
     }
   ],
   "Sticker | paiN Gaming (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.54,
-      "preco": 0.96,
-      "porcentagem": 77.78,
+      "preco": 0.93,
+      "porcentagem": 72.22,
       "quantidade": 1
     }
   ],
@@ -3522,32 +3522,32 @@
   "Sticker | rain (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 1.45,
-      "preco": 3.83,
-      "porcentagem": 164.14,
+      "preco": 3.81,
+      "porcentagem": 162.76,
       "quantidade": 3
     }
   ],
   "Sticker | rain (Glitter, Champion) | Antwerp 2022": [
     {
       "preço_inicial": 0.53,
-      "preco": 1.86,
-      "porcentagem": 250.94,
+      "preco": 1.67,
+      "porcentagem": 215.09,
       "quantidade": 2
     }
   ],
   "Sticker | rain | Antwerp 2022": [
     {
       "preço_inicial": 0.1,
-      "preco": 0.4,
-      "porcentagem": 300.0,
+      "preco": 0.36,
+      "porcentagem": 260.0,
       "quantidade": 3
     }
   ],
   "Sticker | rain | Copenhagen 2024": [
     {
       "preço_inicial": 0.06,
-      "preco": 0.43,
-      "porcentagem": 616.67,
+      "preco": 0.42,
+      "porcentagem": 600.0,
       "quantidade": 3
     }
   ],
@@ -3602,8 +3602,8 @@
   "Sticker | ropz | Copenhagen 2024": [
     {
       "preço_inicial": 0.36,
-      "preco": 0.25,
-      "porcentagem": -30.56,
+      "preco": 0.24,
+      "porcentagem": -33.33,
       "quantidade": 1
     }
   ],
@@ -3618,8 +3618,8 @@
   "Sticker | s1mple (Glitter) | Paris 2023": [
     {
       "preço_inicial": 3.1,
-      "preco": 3.72,
-      "porcentagem": 20.0,
+      "preco": 3.71,
+      "porcentagem": 19.68,
       "quantidade": 2
     }
   ],
@@ -3634,16 +3634,16 @@
   "Sticker | s1mple | Antwerp 2022": [
     {
       "preço_inicial": 0.52,
-      "preco": 1.43,
-      "porcentagem": 175.0,
+      "preco": 1.29,
+      "porcentagem": 148.08,
       "quantidade": 4
     }
   ],
   "Sticker | s1mple | Stockholm 2021": [
     {
       "preço_inicial": 0.5,
-      "preco": 0.57,
-      "porcentagem": 14.0,
+      "preco": 0.58,
+      "porcentagem": 16.0,
       "quantidade": 1
     }
   ],
@@ -3658,8 +3658,8 @@
   "Sticker | saadzin (Holo) | Austin 2025": [
     {
       "preço_inicial": 2.2,
-      "preco": 16.53,
-      "porcentagem": 651.36,
+      "preco": 16.83,
+      "porcentagem": 665.0,
       "quantidade": 1
     }
   ],
@@ -3698,8 +3698,8 @@
   "Sticker | sdy (Glitter) | Paris 2023": [
     {
       "preço_inicial": 0.13,
-      "preco": 0.15,
-      "porcentagem": 15.38,
+      "preco": 0.19,
+      "porcentagem": 46.15,
       "quantidade": 3
     }
   ],
@@ -3722,16 +3722,16 @@
   "Sticker | sh1ro (Glitter) | Copenhagen 2024": [
     {
       "preço_inicial": 0.35,
-      "preco": 0.83,
-      "porcentagem": 137.14,
+      "preco": 0.74,
+      "porcentagem": 111.43,
       "quantidade": 36
     }
   ],
   "Sticker | sh1ro (Glitter) | Shanghai 2024": [
     {
       "preço_inicial": 0.08,
-      "preco": 0.19,
-      "porcentagem": 137.5,
+      "preco": 0.18,
+      "porcentagem": 125.0,
       "quantidade": 2
     }
   ],
@@ -3754,8 +3754,8 @@
   "Sticker | sh1ro (Holo, Champion) | Shanghai 2024": [
     {
       "preço_inicial": 0.52,
-      "preco": 2.72,
-      "porcentagem": 423.08,
+      "preco": 3.19,
+      "porcentagem": 513.46,
       "quantidade": 39
     }
   ],
@@ -3770,16 +3770,16 @@
   "Sticker | sh1ro | Stockholm 2021": [
     {
       "preço_inicial": 0.19,
-      "preco": 0.12,
-      "porcentagem": -36.84,
+      "preco": 0.13,
+      "porcentagem": -31.58,
       "quantidade": 1
     }
   ],
   "Sticker | sico (Holo) | Antwerp 2022": [
     {
       "preço_inicial": 7.1,
-      "preco": 8.78,
-      "porcentagem": 23.66,
+      "preco": 8.74,
+      "porcentagem": 23.1,
       "quantidade": 2
     }
   ],
@@ -3818,8 +3818,8 @@
   "Sticker | skullz (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.16,
-      "preco": 0.27,
-      "porcentagem": 68.75,
+      "preco": 0.21,
+      "porcentagem": 31.25,
       "quantidade": 1
     }
   ],
@@ -3858,8 +3858,8 @@
   "Sticker | snow (Holo) | Austin 2025": [
     {
       "preço_inicial": 4.85,
-      "preco": 9.06,
-      "porcentagem": 86.8,
+      "preco": 9.29,
+      "porcentagem": 91.55,
       "quantidade": 2
     }
   ],
@@ -3890,16 +3890,16 @@
   "Sticker | susp (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.14,
-      "preco": 0.52,
-      "porcentagem": 271.43,
+      "preco": 0.61,
+      "porcentagem": 335.71,
       "quantidade": 7
     }
   ],
   "Sticker | susp (Glitter) | Shanghai 2024": [
     {
       "preço_inicial": 0.26,
-      "preco": 0.27,
-      "porcentagem": 3.85,
+      "preco": 0.21,
+      "porcentagem": -19.23,
       "quantidade": 4
     }
   ],
@@ -3938,8 +3938,8 @@
   "Sticker | torzsi (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.98,
-      "preco": 11.0,
-      "porcentagem": 455.56,
+      "preco": 14.56,
+      "porcentagem": 635.35,
       "quantidade": 2
     }
   ],
@@ -4002,8 +4002,8 @@
   "Sticker | w0nderful (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.1,
-      "preco": 12.43,
-      "porcentagem": 1030.0,
+      "preco": 14.66,
+      "porcentagem": 1232.73,
       "quantidade": 2
     }
   ],
@@ -4018,8 +4018,8 @@
   "Sticker | woxic (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.1,
-      "preco": 8.76,
-      "porcentagem": 696.36,
+      "preco": 9.9,
+      "porcentagem": 800.0,
       "quantidade": 2
     }
   ],
@@ -4034,8 +4034,8 @@
   "Sticker | woxic | Copenhagen 2024": [
     {
       "preço_inicial": 0.09,
-      "preco": 0.05,
-      "porcentagem": -44.44,
+      "preco": 0.04,
+      "porcentagem": -55.56,
       "quantidade": 3
     }
   ],
@@ -4066,8 +4066,8 @@
   "Sticker | xertioN (Holo) | Austin 2025": [
     {
       "preço_inicial": 1.35,
-      "preco": 7.94,
-      "porcentagem": 488.15,
+      "preco": 7.56,
+      "porcentagem": 460.0,
       "quantidade": 7
     }
   ],
@@ -4082,8 +4082,8 @@
   "Sticker | yuurih (Foil) | Austin 2025": [
     {
       "preço_inicial": 0.12,
-      "preco": 0.29,
-      "porcentagem": 141.67,
+      "preco": 0.34,
+      "porcentagem": 183.33,
       "quantidade": 1
     }
   ],
@@ -4122,8 +4122,8 @@
   "Sticker | yuurih (Holo) | Austin 2025": [
     {
       "preço_inicial": 2.71,
-      "preco": 17.76,
-      "porcentagem": 555.35,
+      "preco": 16.6,
+      "porcentagem": 512.55,
       "quantidade": 1
     }
   ],
@@ -4138,8 +4138,8 @@
   "Sticker | yuurih | Copenhagen 2024": [
     {
       "preço_inicial": 0.04,
-      "preco": 0.05,
-      "porcentagem": 25.0,
+      "preco": 0.04,
+      "porcentagem": 0.0,
       "quantidade": 3
     }
   ],
@@ -4170,8 +4170,8 @@
   "Sticker | zont1x (Holo, Champion) | Shanghai 2024": [
     {
       "preço_inicial": 0.3,
-      "preco": 1.99,
-      "porcentagem": 563.33,
+      "preco": 2.37,
+      "porcentagem": 690.0,
       "quantidade": 1
     }
   ],
@@ -4194,8 +4194,8 @@
   "Souvenir R8 Revolver | Inlay (Factory New)": [
     {
       "preço_inicial": 1.0,
-      "preco": 2.25,
-      "porcentagem": 125.0,
+      "preco": 2.24,
+      "porcentagem": 124.0,
       "quantidade": 1
     }
   ],
@@ -4210,8 +4210,8 @@
   "Souvenir MP7 | Sunbaked (Minimal Wear)": [
     {
       "preço_inicial": 0.15,
-      "preco": 0.24,
-      "porcentagem": 60.0,
+      "preco": 0.23,
+      "porcentagem": 53.33,
       "quantidade": 16
     }
   ],
@@ -4226,32 +4226,32 @@
   "XM1014 | Hieroglyph (Factory New)": [
     {
       "preço_inicial": 1.01,
-      "preco": 1.87,
-      "porcentagem": 85.15,
+      "preco": 1.89,
+      "porcentagem": 87.13,
       "quantidade": 1
     }
   ],
   "Souvenir XM1014 | Hieroglyph (Minimal Wear)": [
     {
       "preço_inicial": 0.15,
-      "preco": 0.19,
-      "porcentagem": 26.67,
+      "preco": 0.18,
+      "porcentagem": 20.0,
       "quantidade": 1
     }
   ],
   "Tec-9 | Rebel (Minimal Wear)": [
     {
       "preço_inicial": 0.55,
-      "preco": 0.93,
-      "porcentagem": 69.09,
+      "preco": 0.85,
+      "porcentagem": 54.55,
       "quantidade": 1
     }
   ],
   "R8 Revolver | Banana Cannon (Minimal Wear)": [
     {
       "preço_inicial": 2.5,
-      "preco": 4.08,
-      "porcentagem": 63.2,
+      "preco": 4.28,
+      "porcentagem": 71.2,
       "quantidade": 1
     }
   ],
@@ -4266,16 +4266,16 @@
   "R8 Revolver | Grip (Minimal Wear)": [
     {
       "preço_inicial": 0.5,
-      "preco": 1.15,
-      "porcentagem": 130.0,
+      "preco": 1.07,
+      "porcentagem": 114.0,
       "quantidade": 5
     }
   ],
   "R8 Revolver | Junk Yard (Minimal Wear)": [
     {
       "preço_inicial": 1.5,
-      "preco": 1.79,
-      "porcentagem": 19.33,
+      "preco": 1.9,
+      "porcentagem": 26.67,
       "quantidade": 1
     }
   ],
@@ -4290,32 +4290,32 @@
   "SG 553 | Cyberforce (Minimal Wear)": [
     {
       "preço_inicial": 0.4,
-      "preco": 1.15,
-      "porcentagem": 187.5,
+      "preco": 1.11,
+      "porcentagem": 177.5,
       "quantidade": 1
     }
   ],
   "SSG 08 | Memorial (Factory New)": [
     {
       "preço_inicial": 3.0,
-      "preco": 8.81,
-      "porcentagem": 193.67,
+      "preco": 8.76,
+      "porcentagem": 192.0,
       "quantidade": 1
     }
   ],
   "P90 | Traction (Minimal Wear)": [
     {
       "preço_inicial": 2.3,
-      "preco": 2.58,
-      "porcentagem": 12.17,
+      "preco": 2.66,
+      "porcentagem": 15.65,
       "quantidade": 1
     }
   ],
   "FAMAS | Meow 36 (Minimal Wear)": [
     {
       "preço_inicial": 0.5,
-      "preco": 0.84,
-      "porcentagem": 68.0,
+      "preco": 0.86,
+      "porcentagem": 72.0,
       "quantidade": 1
     }
   ],
@@ -4346,8 +4346,8 @@
   "Souvenir P2000 | Panther Camo (Factory New)": [
     {
       "preço_inicial": 1.0,
-      "preco": 2.04,
-      "porcentagem": 104.0,
+      "preco": 2.07,
+      "porcentagem": 107.0,
       "quantidade": 1
     }
   ],
@@ -4378,16 +4378,16 @@
   "M4A1-S | Mud-Spec (Minimal Wear)": [
     {
       "preço_inicial": 1.3,
-      "preco": 3.82,
-      "porcentagem": 193.85,
+      "preco": 3.84,
+      "porcentagem": 195.38,
       "quantidade": 1
     }
   ],
   "Negev | Wall Bang (Factory New)": [
     {
       "preço_inicial": 1.4,
-      "preco": 5.32,
-      "porcentagem": 280.0,
+      "preco": 5.18,
+      "porcentagem": 270.0,
       "quantidade": 1
     }
   ],
@@ -4426,8 +4426,8 @@
   "Sticker | n0rb3r7 (Holo) | Copenhagen 2024": [
     {
       "preço_inicial": 3.2,
-      "preco": 5.78,
-      "porcentagem": 80.62,
+      "preco": 5.7,
+      "porcentagem": 78.12,
       "quantidade": 1
     }
   ],
