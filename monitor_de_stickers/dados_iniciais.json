@@ -623,10 +623,6 @@
     "preco_inicial": 0.4,
     "quantidade": 1
   },
-  "Sticker | mezii (Holo) | Austin 2025": {
-    "preco_inicial": 1.15,
-    "quantidade": 1
-  },
   "Sticker | MIBR (Foil) | Austin 2025": {
     "preco_inicial": 0.34,
     "quantidade": 9
@@ -2236,6 +2232,7 @@
     "quantidade": 1
   }
 }
+
 
 
 
