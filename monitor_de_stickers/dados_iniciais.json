@@ -1137,7 +1137,7 @@
   },
   "Sticker | b1t (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.25,
-    "quantidade": 5
+    "quantidade": 9
   },
   "Sticker | b1t (Glitter) | Paris 2023": {
     "preco_inicial": 0.12,
@@ -1384,8 +1384,8 @@
     "quantidade": 2
   },
   "Sticker | frozen (Glitter) | Copenhagen 2024": {
-    "preco_inicial": 0.32,
-    "quantidade": 6
+    "preco_inicial": 0.40,
+    "quantidade": 9
   },
   "Sticker | frozen (Glitter) | Paris 2023": {
     "preco_inicial": 0.15,
@@ -1592,12 +1592,12 @@
     "quantidade": 1
   },
   "Sticker | latto (Glitter) | Copenhagen 2024": {
-    "preco_inicial": 0.14,
-    "quantidade": 14
+    "preco_inicial": 0.25,
+    "quantidade": 48
   },
   "Sticker | latto (Glitter) | Rio 2022": {
     "preco_inicial": 0.37,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | latto (Gold) | Copenhagen 2024": {
     "preco_inicial": 5.0,
@@ -1701,7 +1701,7 @@
   },
   "Sticker | n1ssim (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.24,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | n1ssim (Holo) | Copenhagen 2024": {
     "preco_inicial": 1.53,
@@ -2029,7 +2029,7 @@
   },
   "Sticker | xertioN (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.37,
-    "quantidade": 2
+    "quantidade": 4
   },
   "Sticker | xertioN (Glitter) | Rio 2022": {
     "preco_inicial": 0.46,
@@ -2232,6 +2232,7 @@
     "quantidade": 1
   }
 }
+
 
 
 
