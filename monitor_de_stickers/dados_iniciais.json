@@ -681,7 +681,7 @@
   },
   "Sticker | NQZ (Holo) | Copenhagen 2024": {
     "preco_inicial": 1.54,
-    "quantidade": 3
+    "quantidade": 4
   },
   "Sticker | NQZ | Austin 2025": {
     "preco_inicial": 0.05,
@@ -829,7 +829,7 @@
   },
   "Sticker | Spinx (Holo) | Copenhagen 2024": {
     "preco_inicial": 1.1,
-    "quantidade": 3
+    "quantidade": 4
   },
   "Sticker | Starry (Glitter) | Copenhagen 2024": {
     "preco_inicial": 0.65,
@@ -865,7 +865,7 @@
   },
   "Sticker | TRAVIS (Holo) | Copenhagen 2024": {
     "preco_inicial": 2.2,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | TRY (Glitter) | Rio 2022": {
     "preco_inicial": 1.02,
@@ -1189,7 +1189,7 @@
   },
   "Sticker | biguzera (Holo) | Shanghai 2024": {
     "preco_inicial": 1.2,
-    "quantidade": 1
+    "quantidade": 2
   },
   "Sticker | bodyy | Shanghai 2024": {
     "preco_inicial": 0.15,
@@ -1317,7 +1317,7 @@
   },
   "Sticker | dumau (Holo) | Copenhagen 2024": {
     "preco_inicial": 1.7,
-    "quantidade": 7
+    "quantidade": 8
   },
   "Sticker | dupreeh (Glitter) | Antwerp 2022": {
     "preco_inicial": 0.1,
@@ -1605,7 +1605,7 @@
   },
   "Sticker | latto (Holo) | Copenhagen 2024": {
     "preco_inicial": 1.31,
-    "quantidade": 7
+    "quantidade": 8
   },
   "Sticker | latto | Austin 2025": {
     "preco_inicial": 0.04,
@@ -2236,6 +2236,7 @@
     "quantidade": 1
   }
 }
+
 
 
 
