@@ -205,7 +205,7 @@
   },
   "Sticker | Complexity Gaming (Glitter) | Copenhagen 2024": {
     "preco_inicial": 1.06,
-    "quantidade": 2
+    "quantidade": 3
   },
   "Sticker | Complexity Gaming | Copenhagen 2024": {
     "preco_inicial": 0.14,
@@ -281,7 +281,7 @@
   },
   "Sticker | FURIA (Glitter) | Copenhagen 2024": {
     "preco_inicial": 1.0,
-    "quantidade": 1
+    "quantidade": 3
   },
   "Sticker | FURIA (Glitter) | Rio 2022": {
     "preco_inicial": 0.51,
@@ -641,7 +641,7 @@
   },
   "Sticker | MOUZ (Glitter) | Copenhagen 2024": {
     "preco_inicial": 1.15,
-    "quantidade": 8
+    "quantidade": 9
   },
   "Sticker | MOUZ | Austin 2025": {
     "preco_inicial": 0.1,
@@ -801,7 +801,7 @@
   },
   "Sticker | sico (Glitter) | Antwerp 2022": {
     "preco_inicial": 0.28,
-    "quantidade": 30
+    "quantidade": 37
   },
   "Sticker | Sico (Glitter) | Paris 2023": {
     "preco_inicial": 0.29,
@@ -2236,6 +2236,7 @@
     "quantidade": 1
   }
 }
+
 
 
 
