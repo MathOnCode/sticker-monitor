@@ -554,8 +554,10 @@ STICKERS = [
     "Sticker | n0rb3r7 (Holo) | Copenhagen 2024",
     "Sticker | Renegades (Foil) | Berlin 2019",
     "Sticker | sense (Holo) | Copenhagen 2024",
+    "Sticker | sense (Glitter) | Copenhagen 2024",
     "Sticker | FlameZ (Holo) | Copenhagen 2024"
 ]
+
 
 
 
